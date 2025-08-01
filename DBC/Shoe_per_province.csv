@@ -1,0 +1,575 @@
+,Company,Province,Brand,Category,Units Sold,Revenue
+1,DSW,Ontario,Adidas,Kids' Casual,231,20097
+2,DSW,Ontario,Crocs,Women's Workwear,212,15900
+3,DSW,Ontario,UGG,Women's Workwear,334,20708
+4,DSW,Ontario,Nike,Men's Formal,435,36105
+5,DSW,Ontario,Puma,Women's Workwear,473,50138
+6,DSW,Ontario,Adidas,Women's Workwear,345,58995
+7,DSW,Ontario,UGG,Women's Workwear,277,36010
+9,DSW,Ontario,Adidas,Women's Workwear,230,34730
+10,DSW,Ontario,Nike,Kids' Casual,329,65142
+12,DSW,Ontario,UGG,Women's Workwear,112,7616
+13,DSW,Ontario,Nike,Women's Workwear,175,16975
+14,DSW,Ontario,Nike,Women's Workwear,69,4899
+15,DSW,Ontario,Adidas,Kids' Casual,209,34276
+16,DSW,Ontario,Puma,Kids' Casual,230,25300
+17,DSW,Ontario,Crocs,Men's Formal,245,33565
+18,DSW,Ontario,Puma,Men's Formal,89,13973
+19,DSW,Ontario,Nike,Kids' Casual,135,23355
+20,DSW,British Columbia,Adidas,Athletic,201,34170
+21,DSW,British Columbia,Crocs,Outdoor Trainers,391,46529
+22,DSW,British Columbia,UGG,Outdoor Trainers,262,31702
+24,DSW,British Columbia,Adidas,Outdoor Trainers,211,14348
+25,DSW,British Columbia,UGG,Casual Sneakers,250,26500
+27,DSW,British Columbia,UGG,Athletic,141,12126
+28,DSW,British Columbia,Puma,Athletic,353,63540
+29,DSW,British Columbia,Kelly & Katie,Outdoor Trainers,367,43673
+30,DSW,British Columbia,Adidas,Athletic,312,55848
+31,DSW,British Columbia,Kelly & Katie,Casual Sneakers,255,23460
+32,DSW,British Columbia,UGG,Casual Sneakers,388,54708
+33,DSW,British Columbia,Nike,Outdoor Trainers,279,43803
+34,DSW,British Columbia,Puma,Athletic,166,18260
+35,DSW,British Columbia,Kelly & Katie,Outdoor Trainers,121,12100
+36,DSW,British Columbia,Adidas,Athletic,186,29202
+38,DSW,British Columbia,Michael Kors,Casual Sneakers,480,84000
+39,DSW,British Columbia,Adidas,Outdoor Trainers,394,29550
+41,DSW,Alberta,Nike,Snow Boots,319,45298
+42,DSW,Alberta,Michael Kors,Western Boots,55,7645
+43,DSW,Alberta,UGG,Men's Casual,95,17860
+44,DSW,Alberta,Michael Kors,Men's Casual,241,48200
+45,DSW,Alberta,Crocs,Western Boots,457,67179
+46,DSW,Alberta,Crocs,Men's Casual,464,90016
+47,DSW,Alberta,Michael Kors,Western Boots,389,32287
+48,DSW,Alberta,Nike,Men's Casual,309,38625
+49,DSW,Alberta,Michael Kors,Western Boots,89,17711
+50,DSW,Alberta,Michael Kors,Men's Casual,231,14553
+51,DSW,Alberta,UGG,Snow Boots,109,9483
+52,DSW,Alberta,Kelly & Katie,Men's Casual,84,15036
+53,DSW,Alberta,Kelly & Katie,Men's Casual,287,22673
+54,DSW,Alberta,Adidas,Western Boots,132,10032
+55,DSW,Alberta,Adidas,Western Boots,116,17284
+56,DSW,Alberta,Michael Kors,Western Boots,170,14450
+57,DSW,Alberta,Adidas,Western Boots,119,11186
+58,DSW,Alberta,Michael Kors,Western Boots,143,25311
+59,DSW,Alberta,Puma,Western Boots,367,70831
+60,DSW,Quebec,Michael Kors,Unisex Sneakers,392,37240
+61,DSW,Quebec,Crocs,Unisex Sneakers,460,56120
+62,DSW,Quebec,Michael Kors,Winter Boots,351,64233
+63,DSW,Quebec,Michael Kors,Fashion Boots,99,16137
+64,DSW,Quebec,Adidas,Unisex Sneakers,62,7192
+65,DSW,Quebec,Crocs,Unisex Sneakers,328,36080
+66,DSW,Quebec,Adidas,Fashion Boots,175,34125
+67,DSW,Quebec,Michael Kors,Fashion Boots,64,8256
+68,DSW,Quebec,UGG,Unisex Sneakers,69,9039
+69,DSW,Quebec,Puma,Unisex Sneakers,212,19080
+70,DSW,Quebec,Michael Kors,Unisex Sneakers,253,24288
+71,DSW,Quebec,Michael Kors,Unisex Sneakers,499,98802
+72,DSW,Quebec,Adidas,Fashion Boots,159,20193
+73,DSW,Quebec,Adidas,Fashion Boots,348,66816
+74,DSW,Quebec,UGG,Winter Boots,272,34544
+75,DSW,Quebec,UGG,Fashion Boots,283,55185
+76,DSW,Quebec,Puma,Fashion Boots,200,24600
+77,DSW,Quebec,Crocs,Fashion Boots,469,53466
+78,DSW,Quebec,Michael Kors,Fashion Boots,161,24472
+79,DSW,Quebec,Adidas,Winter Boots,176,24992
+80,DSW,Manitoba,Michael Kors,Waterproof Shoes,481,85137
+81,DSW,Manitoba,Puma,Kids' Winter,338,20280
+82,DSW,Manitoba,Adidas,Waterproof Shoes,406,75516
+83,DSW,Manitoba,UGG,Kids' Winter,101,12221
+84,DSW,Manitoba,Puma,Kids' Winter,179,17900
+85,DSW,Manitoba,Adidas,Waterproof Shoes,271,39295
+88,DSW,Manitoba,Puma,Kids' Winter,230,44620
+89,DSW,Manitoba,Crocs,Waterproof Shoes,180,13680
+92,DSW,Manitoba,Puma,Utility Boots,276,22908
+94,DSW,Manitoba,Nike,Kids' Winter,194,17848
+95,DSW,Manitoba,Puma,Utility Boots,174,22968
+96,DSW,Manitoba,Kelly & Katie,Utility Boots,77,14168
+97,DSW,Manitoba,UGG,Waterproof Shoes,308,45276
+98,DSW,Manitoba,Puma,Utility Boots,252,49392
+99,DSW,Manitoba,Nike,Utility Boots,396,34848
+100,DSW,Saskatchewan,Puma,Everyday Shoes,53,6042
+101,DSW,Saskatchewan,Kelly & Katie,Work Boots,400,42400
+102,DSW,Saskatchewan,UGG,Everyday Shoes,313,50393
+103,DSW,Saskatchewan,UGG,Snow Boots,405,70065
+104,DSW,Saskatchewan,UGG,Everyday Shoes,335,30150
+105,DSW,Saskatchewan,Nike,Work Boots,383,34087
+106,DSW,Saskatchewan,Nike,Everyday Shoes,221,34255
+107,DSW,Saskatchewan,Michael Kors,Snow Boots,261,23229
+108,DSW,Saskatchewan,Crocs,Work Boots,449,63758
+109,DSW,Saskatchewan,Nike,Snow Boots,339,60003
+110,DSW,Saskatchewan,Adidas,Everyday Shoes,362,50318
+111,DSW,Saskatchewan,UGG,Snow Boots,296,58608
+112,DSW,Saskatchewan,Nike,Snow Boots,278,51986
+113,DSW,Saskatchewan,UGG,Snow Boots,80,10400
+115,DSW,Saskatchewan,Kelly & Katie,Work Boots,474,85794
+116,DSW,Saskatchewan,Adidas,Everyday Shoes,95,12255
+117,DSW,Saskatchewan,Crocs,Work Boots,438,72270
+118,DSW,Saskatchewan,Adidas,Everyday Shoes,200,18400
+120,DSW,Nova Scotia,Kelly & Katie,Casual Loafers,124,10292
+121,DSW,Nova Scotia,Puma,Casual Loafers,304,38608
+122,DSW,Nova Scotia,Adidas,Slip-ons,447,28608
+124,DSW,Nova Scotia,Nike,Casual Loafers,175,12075
+126,DSW,Nova Scotia,Kelly & Katie,Slip-ons,441,67032
+127,DSW,Nova Scotia,Kelly & Katie,Slip-ons,50,8350
+128,DSW,Nova Scotia,Adidas,Casual Loafers,249,41085
+129,DSW,Nova Scotia,Nike,Slip-ons,163,30970
+131,DSW,Nova Scotia,Michael Kors,Casual Loafers,194,20370
+133,DSW,Nova Scotia,Adidas,Comfort Shoes,108,17064
+134,DSW,Nova Scotia,Michael Kors,Slip-ons,132,21516
+135,DSW,Nova Scotia,UGG,Comfort Shoes,272,32368
+136,DSW,Nova Scotia,Michael Kors,Slip-ons,180,32940
+137,DSW,Nova Scotia,Michael Kors,Casual Loafers,380,74480
+138,DSW,Nova Scotia,Crocs,Casual Loafers,439,66728
+139,DSW,Nova Scotia,Kelly & Katie,Casual Loafers,205,20295
+140,DSW,Newfoundland,UGG,Waterproof Footwear,210,40740
+141,DSW,Newfoundland,Puma,Heavy-duty Boots,278,40588
+142,DSW,Newfoundland,Adidas,Insulated Boots,346,68508
+143,DSW,Newfoundland,Michael Kors,Insulated Boots,97,19303
+145,DSW,Newfoundland,Adidas,Heavy-duty Boots,231,30030
+146,DSW,Newfoundland,UGG,Heavy-duty Boots,86,9890
+147,DSW,Newfoundland,Kelly & Katie,Heavy-duty Boots,497,40257
+148,DSW,Newfoundland,Michael Kors,Insulated Boots,255,42330
+149,DSW,Newfoundland,Nike,Insulated Boots,193,15440
+150,DSW,Newfoundland,Michael Kors,Insulated Boots,250,18000
+151,DSW,Newfoundland,Puma,Waterproof Footwear,259,40663
+152,DSW,Newfoundland,Crocs,Insulated Boots,157,14915
+153,DSW,Newfoundland,UGG,Heavy-duty Boots,193,29722
+154,DSW,Newfoundland,Puma,Insulated Boots,160,20160
+155,DSW,Newfoundland,Adidas,Heavy-duty Boots,71,8236
+156,DSW,Newfoundland,Nike,Insulated Boots,266,48678
+157,DSW,Newfoundland,Crocs,Heavy-duty Boots,138,14076
+158,DSW,Newfoundland,Kelly & Katie,Waterproof Footwear,244,46604
+159,DSW,Newfoundland,Kelly & Katie,Waterproof Footwear,385,48895
+160,DSW,New Brunswick,Michael Kors,Unisex Casual,449,79922
+162,DSW,New Brunswick,Nike,Kids' Shoes,481,71188
+163,DSW,New Brunswick,Puma,General Footwear,116,20648
+164,DSW,New Brunswick,Puma,Unisex Casual,399,60648
+165,DSW,New Brunswick,UGG,General Footwear,152,17784
+166,DSW,New Brunswick,Michael Kors,Unisex Casual,478,53536
+167,DSW,New Brunswick,Puma,General Footwear,147,12348
+168,DSW,New Brunswick,Kelly & Katie,General Footwear,162,13284
+169,DSW,New Brunswick,Crocs,General Footwear,322,35742
+171,DSW,New Brunswick,Nike,Kids' Shoes,199,34825
+174,DSW,New Brunswick,Michael Kors,Kids' Shoes,70,12950
+176,DSW,New Brunswick,Nike,Unisex Casual,316,42028
+177,DSW,New Brunswick,UGG,General Footwear,411,31647
+178,DSW,New Brunswick,Nike,General Footwear,99,11088
+179,DSW,New Brunswick,Nike,Kids' Shoes,365,41975
+180,DSW,PEI,Kelly & Katie,Light Casual,139,18487
+181,DSW,PEI,UGG,Sandals,222,41958
+183,DSW,PEI,Adidas,Sandals,166,31872
+184,DSW,PEI,Adidas,Loafers,311,47583
+185,DSW,PEI,Adidas,Sandals,288,41760
+186,DSW,PEI,Nike,Loafers,198,23958
+187,DSW,PEI,UGG,Loafers,492,86592
+188,DSW,PEI,Kelly & Katie,Loafers,346,20760
+189,DSW,PEI,Nike,Loafers,89,11570
+190,DSW,PEI,Adidas,Sandals,150,10050
+191,DSW,PEI,Adidas,Sandals,200,16200
+193,DSW,PEI,Kelly & Katie,Light Casual,406,42630
+194,DSW,PEI,Puma,Light Casual,252,34776
+195,DSW,PEI,Crocs,Sandals,170,20060
+196,DSW,PEI,Nike,Sandals,79,14062
+197,DSW,PEI,Crocs,Loafers,330,22110
+198,DSW,PEI,UGG,Light Casual,115,16675
+199,DSW,PEI,Kelly & Katie,Loafers,51,8823
+200,Rubino,Ontario,Converse,Women's Workwear,283,23489
+201,Rubino,Ontario,Jansport,Women's Workwear,450,67500
+202,Rubino,Ontario,Dr. Martens,Women's Workwear,280,48720
+203,Rubino,Ontario,North Face,Women's Workwear,433,29877
+204,Rubino,Ontario,Skechers,Men's Formal,432,78624
+205,Rubino,Ontario,Converse,Women's Workwear,396,31284
+206,Rubino,Ontario,Converse,Men's Formal,367,53582
+207,Rubino,Ontario,North Face,Men's Formal,474,33654
+208,Rubino,Ontario,Birkenstock,Kids' Casual,199,20696
+209,Rubino,Ontario,Reebok,Women's Workwear,76,5776
+210,Rubino,Ontario,Jansport,Kids' Casual,395,52930
+211,Rubino,Ontario,Converse,Men's Formal,266,36176
+212,Rubino,Ontario,Birkenstock,Kids' Casual,443,85056
+213,Rubino,Ontario,Reebok,Kids' Casual,65,4680
+214,Rubino,Ontario,Converse,Kids' Casual,150,15300
+215,Rubino,Ontario,Jansport,Women's Workwear,67,11323
+216,Rubino,Ontario,Birkenstock,Men's Formal,140,16660
+217,Rubino,Ontario,Vans,Men's Formal,435,27840
+218,Rubino,Ontario,North Face,Kids' Casual,323,35530
+219,Rubino,Ontario,Skechers,Men's Formal,255,51000
+220,Rubino,British Columbia,Birkenstock,Outdoor Trainers,55,10450
+221,Rubino,British Columbia,Dr. Martens,Outdoor Trainers,297,52569
+222,Rubino,British Columbia,North Face,Outdoor Trainers,167,22378
+223,Rubino,British Columbia,Birkenstock,Casual Sneakers,173,26815
+224,Rubino,British Columbia,Skechers,Casual Sneakers,322,38640
+225,Rubino,British Columbia,Converse,Athletic,52,4212
+226,Rubino,British Columbia,Skechers,Outdoor Trainers,245,47775
+227,Rubino,British Columbia,North Face,Casual Sneakers,158,18012
+228,Rubino,British Columbia,Reebok,Outdoor Trainers,301,44548
+229,Rubino,British Columbia,North Face,Casual Sneakers,378,60858
+230,Rubino,British Columbia,Converse,Outdoor Trainers,271,35772
+231,Rubino,British Columbia,Vans,Athletic,452,76840
+232,Rubino,British Columbia,Jansport,Casual Sneakers,458,27480
+233,Rubino,British Columbia,Jansport,Casual Sneakers,129,15222
+234,Rubino,British Columbia,Skechers,Outdoor Trainers,278,54766
+235,Rubino,British Columbia,Converse,Athletic,255,40290
+236,Rubino,British Columbia,Converse,Outdoor Trainers,212,40280
+237,Rubino,British Columbia,Birkenstock,Outdoor Trainers,159,10971
+238,Rubino,British Columbia,Converse,Outdoor Trainers,267,40050
+239,Rubino,British Columbia,Skechers,Casual Sneakers,376,56776
+240,Rubino,Alberta,Reebok,Men's Casual,148,17020
+241,Rubino,Alberta,Vans,Men's Casual,228,27360
+242,Rubino,Alberta,Reebok,Western Boots,267,16287
+243,Rubino,Alberta,Birkenstock,Men's Casual,262,30654
+244,Rubino,Alberta,Vans,Western Boots,230,22540
+245,Rubino,Alberta,Dr. Martens,Snow Boots,131,10873
+246,Rubino,Alberta,Jansport,Men's Casual,391,23851
+247,Rubino,Alberta,Reebok,Men's Casual,50,3100
+248,Rubino,Alberta,Vans,Western Boots,92,8004
+249,Rubino,Alberta,Birkenstock,Snow Boots,464,74240
+250,Rubino,Alberta,Dr. Martens,Men's Casual,220,18700
+251,Rubino,Alberta,Jansport,Men's Casual,261,38106
+252,Rubino,Alberta,Birkenstock,Snow Boots,212,42188
+253,Rubino,Alberta,North Face,Snow Boots,378,40068
+254,Rubino,Alberta,Dr. Martens,Western Boots,371,70490
+255,Rubino,Alberta,Vans,Men's Casual,155,26195
+256,Rubino,Alberta,Birkenstock,Western Boots,282,42018
+257,Rubino,Alberta,Converse,Western Boots,246,44034
+258,Rubino,Alberta,Reebok,Men's Casual,264,41976
+259,Rubino,Alberta,Birkenstock,Snow Boots,298,51852
+260,Rubino,Quebec,Birkenstock,Unisex Sneakers,239,16013
+261,Rubino,Quebec,Vans,Winter Boots,411,46443
+262,Rubino,Quebec,Vans,Winter Boots,372,59520
+263,Rubino,Quebec,Dr. Martens,Unisex Sneakers,331,24163
+264,Rubino,Quebec,Converse,Fashion Boots,327,19947
+265,Rubino,Quebec,Reebok,Unisex Sneakers,430,71380
+266,Rubino,Quebec,North Face,Fashion Boots,111,9990
+267,Rubino,Quebec,Birkenstock,Unisex Sneakers,391,62951
+268,Rubino,Quebec,Vans,Unisex Sneakers,101,15251
+269,Rubino,Quebec,Dr. Martens,Fashion Boots,156,16692
+270,Rubino,Quebec,Jansport,Unisex Sneakers,181,35476
+271,Rubino,Quebec,Converse,Unisex Sneakers,472,34928
+272,Rubino,Quebec,North Face,Winter Boots,271,20596
+273,Rubino,Quebec,Dr. Martens,Unisex Sneakers,149,28161
+274,Rubino,Quebec,Birkenstock,Unisex Sneakers,276,45264
+275,Rubino,Quebec,Birkenstock,Fashion Boots,117,7254
+276,Rubino,Quebec,Reebok,Winter Boots,178,25810
+277,Rubino,Quebec,North Face,Fashion Boots,377,24128
+278,Rubino,Quebec,Dr. Martens,Winter Boots,480,52800
+279,Rubino,Quebec,North Face,Unisex Sneakers,360,59040
+280,Rubino,Manitoba,Jansport,Kids' Winter,90,9630
+281,Rubino,Manitoba,North Face,Kids' Winter,320,60480
+282,Rubino,Manitoba,Dr. Martens,Kids' Winter,218,25288
+283,Rubino,Manitoba,Vans,Kids' Winter,140,27440
+284,Rubino,Manitoba,Reebok,Kids' Winter,84,11592
+285,Rubino,Manitoba,Skechers,Waterproof Shoes,71,6745
+286,Rubino,Manitoba,Skechers,Waterproof Shoes,319,53911
+287,Rubino,Manitoba,Jansport,Kids' Winter,114,19266
+288,Rubino,Manitoba,Skechers,Kids' Winter,280,40040
+289,Rubino,Manitoba,North Face,Utility Boots,354,29382
+290,Rubino,Manitoba,Birkenstock,Kids' Winter,265,43460
+291,Rubino,Manitoba,North Face,Kids' Winter,208,26832
+292,Rubino,Manitoba,Birkenstock,Waterproof Shoes,106,18656
+293,Rubino,Manitoba,Birkenstock,Utility Boots,218,19838
+294,Rubino,Manitoba,Converse,Kids' Winter,352,55616
+295,Rubino,Manitoba,Birkenstock,Utility Boots,230,44160
+296,Rubino,Manitoba,North Face,Utility Boots,119,20944
+297,Rubino,Manitoba,North Face,Kids' Winter,430,72240
+298,Rubino,Manitoba,Jansport,Utility Boots,157,20724
+299,Rubino,Manitoba,Reebok,Utility Boots,72,13752
+300,Rubino,Saskatchewan,Converse,Everyday Shoes,387,61920
+301,Rubino,Saskatchewan,Birkenstock,Everyday Shoes,135,15120
+302,Rubino,Saskatchewan,Birkenstock,Work Boots,330,65340
+303,Rubino,Saskatchewan,Converse,Work Boots,375,74625
+304,Rubino,Saskatchewan,Birkenstock,Snow Boots,167,12191
+305,Rubino,Saskatchewan,Dr. Martens,Everyday Shoes,323,46189
+306,Rubino,Saskatchewan,Converse,Everyday Shoes,459,44064
+307,Rubino,Saskatchewan,Jansport,Snow Boots,267,27501
+308,Rubino,Saskatchewan,Vans,Snow Boots,435,80475
+309,Rubino,Saskatchewan,Converse,Everyday Shoes,141,16074
+310,Rubino,Saskatchewan,Converse,Snow Boots,427,75579
+311,Rubino,Saskatchewan,North Face,Work Boots,181,32399
+312,Rubino,Saskatchewan,Vans,Everyday Shoes,474,35550
+313,Rubino,Saskatchewan,Dr. Martens,Work Boots,139,16541
+314,Rubino,Saskatchewan,Reebok,Work Boots,81,9234
+315,Rubino,Saskatchewan,Vans,Snow Boots,240,34560
+316,Rubino,Saskatchewan,Dr. Martens,Work Boots,272,51136
+317,Rubino,Saskatchewan,Dr. Martens,Snow Boots,392,71344
+318,Rubino,Saskatchewan,Birkenstock,Everyday Shoes,177,16815
+319,Rubino,Saskatchewan,Vans,Work Boots,166,27390
+320,Rubino,Nova Scotia,Reebok,Slip-ons,157,10048
+321,Rubino,Nova Scotia,Vans,Slip-ons,450,46800
+322,Rubino,Nova Scotia,Converse,Comfort Shoes,326,33904
+323,Rubino,Nova Scotia,Vans,Comfort Shoes,412,65096
+324,Rubino,Nova Scotia,Skechers,Casual Loafers,334,47094
+325,Rubino,Nova Scotia,Jansport,Casual Loafers,292,25696
+326,Rubino,Nova Scotia,North Face,Casual Loafers,309,46968
+327,Rubino,Nova Scotia,Converse,Comfort Shoes,486,80190
+328,Rubino,Nova Scotia,North Face,Comfort Shoes,439,39949
+329,Rubino,Nova Scotia,Reebok,Slip-ons,210,14070
+330,Rubino,Nova Scotia,Reebok,Casual Loafers,393,65631
+331,Rubino,Nova Scotia,Skechers,Slip-ons,265,37365
+332,Rubino,Nova Scotia,Skechers,Slip-ons,384,23040
+333,Rubino,Nova Scotia,Dr. Martens,Comfort Shoes,354,27966
+334,Rubino,Nova Scotia,Birkenstock,Slip-ons,422,67098
+335,Rubino,Nova Scotia,Converse,Casual Loafers,185,34595
+336,Rubino,Nova Scotia,Skechers,Casual Loafers,236,38232
+337,Rubino,Nova Scotia,Dr. Martens,Comfort Shoes,186,15624
+338,Rubino,Nova Scotia,Reebok,Casual Loafers,336,67200
+339,Rubino,Nova Scotia,Jansport,Slip-ons,459,89505
+340,Rubino,Newfoundland,Converse,Insulated Boots,239,36806
+341,Rubino,Newfoundland,Skechers,Heavy-duty Boots,378,68040
+342,Rubino,Newfoundland,Birkenstock,Heavy-duty Boots,408,48960
+343,Rubino,Newfoundland,Birkenstock,Waterproof Footwear,489,80685
+344,Rubino,Newfoundland,Vans,Waterproof Footwear,339,21357
+345,Rubino,Newfoundland,Dr. Martens,Heavy-duty Boots,426,43026
+346,Rubino,Newfoundland,Dr. Martens,Waterproof Footwear,188,33464
+347,Rubino,Newfoundland,Birkenstock,Insulated Boots,63,6804
+348,Rubino,Newfoundland,Jansport,Insulated Boots,445,80545
+349,Rubino,Newfoundland,Birkenstock,Waterproof Footwear,409,66258
+350,Rubino,Newfoundland,Vans,Insulated Boots,324,52812
+351,Rubino,Newfoundland,Skechers,Waterproof Footwear,372,72540
+352,Rubino,Newfoundland,Reebok,Waterproof Footwear,465,35805
+353,Rubino,Newfoundland,Reebok,Insulated Boots,282,36096
+354,Rubino,Newfoundland,North Face,Insulated Boots,491,86907
+355,Rubino,Newfoundland,Skechers,Waterproof Footwear,170,17340
+356,Rubino,Newfoundland,Dr. Martens,Heavy-duty Boots,247,20254
+357,Rubino,Newfoundland,Dr. Martens,Insulated Boots,412,74572
+358,Rubino,Newfoundland,Reebok,Heavy-duty Boots,400,52800
+359,Rubino,Newfoundland,Converse,Waterproof Footwear,302,32012
+360,Rubino,New Brunswick,North Face,Unisex Casual,198,32472
+361,Rubino,New Brunswick,Jansport,General Footwear,422,57814
+362,Rubino,New Brunswick,Skechers,General Footwear,265,33655
+363,Rubino,New Brunswick,Reebok,Kids' Shoes,363,54450
+364,Rubino,New Brunswick,Birkenstock,Unisex Casual,417,63384
+365,Rubino,New Brunswick,Skechers,Unisex Casual,204,37536
+366,Rubino,New Brunswick,Vans,General Footwear,379,73147
+367,Rubino,New Brunswick,Converse,Unisex Casual,223,22969
+368,Rubino,New Brunswick,Skechers,Kids' Shoes,222,35742
+369,Rubino,New Brunswick,Dr. Martens,Kids' Shoes,215,34400
+370,Rubino,New Brunswick,North Face,General Footwear,427,45262
+371,Rubino,New Brunswick,Vans,Unisex Casual,309,44496
+372,Rubino,New Brunswick,North Face,Unisex Casual,278,51152
+373,Rubino,New Brunswick,Converse,Kids' Shoes,226,43392
+374,Rubino,New Brunswick,Skechers,General Footwear,175,12250
+375,Rubino,New Brunswick,North Face,Kids' Shoes,100,6700
+376,Rubino,New Brunswick,Birkenstock,Kids' Shoes,358,21480
+377,Rubino,New Brunswick,Dr. Martens,Kids' Shoes,389,62629
+378,Rubino,New Brunswick,Vans,General Footwear,262,34322
+379,Rubino,New Brunswick,Dr. Martens,Kids' Shoes,173,13321
+380,Rubino,PEI,Birkenstock,Loafers,372,59148
+381,Rubino,PEI,North Face,Loafers,169,25688
+382,Rubino,PEI,North Face,Sandals,179,27208
+383,Rubino,PEI,Converse,Light Casual,116,20532
+384,Rubino,PEI,Skechers,Light Casual,120,10320
+385,Rubino,PEI,Converse,Loafers,322,37030
+386,Rubino,PEI,Converse,Sandals,416,55328
+387,Rubino,PEI,North Face,Loafers,170,17340
+388,Rubino,PEI,North Face,Sandals,427,25620
+389,Rubino,PEI,North Face,Sandals,297,40392
+390,Rubino,PEI,Dr. Martens,Sandals,211,16669
+391,Rubino,PEI,Birkenstock,Loafers,385,62755
+392,Rubino,PEI,Skechers,Loafers,322,20608
+393,Rubino,PEI,Dr. Martens,Loafers,96,13248
+394,Rubino,PEI,Jansport,Light Casual,269,30666
+395,Rubino,PEI,Reebok,Loafers,489,44010
+396,Rubino,PEI,Birkenstock,Loafers,173,19895
+397,Rubino,PEI,Birkenstock,Loafers,325,60450
+398,Rubino,PEI,Jansport,Light Casual,107,16906
+399,Rubino,PEI,Skechers,Light Casual,84,11844
+400,The Shoe Company,Ontario,Clarks,Kids' Casual,408,71808
+401,The Shoe Company,Ontario,Kodiak,Men's Formal,181,32761
+402,The Shoe Company,Ontario,Timberland,Women's Workwear,51,8058
+403,The Shoe Company,Ontario,Toms,Kids' Casual,321,63879
+404,The Shoe Company,Ontario,Clarks,Kids' Casual,208,22256
+405,The Shoe Company,Ontario,Timberland,Women's Workwear,308,44968
+406,The Shoe Company,Ontario,Columbia,Women's Workwear,428,77468
+407,The Shoe Company,Ontario,Clarks,Women's Workwear,86,16684
+408,The Shoe Company,Ontario,Columbia,Women's Workwear,158,21646
+409,The Shoe Company,Ontario,Kodiak,Men's Formal,292,46428
+410,The Shoe Company,Ontario,Kodiak,Men's Formal,99,10791
+411,The Shoe Company,Ontario,Kodiak,Men's Formal,275,22550
+412,The Shoe Company,Ontario,Timberland,Women's Workwear,140,26600
+413,The Shoe Company,Ontario,Hush Puppies,Women's Workwear,202,39592
+414,The Shoe Company,Ontario,Hush Puppies,Kids' Casual,101,17069
+415,The Shoe Company,Ontario,Fila,Kids' Casual,297,35046
+416,The Shoe Company,Ontario,Toms,Women's Workwear,51,5712
+417,The Shoe Company,Ontario,Fila,Men's Formal,357,33201
+418,The Shoe Company,Ontario,Columbia,Women's Workwear,435,47415
+419,The Shoe Company,Ontario,Kodiak,Men's Formal,419,28492
+420,The Shoe Company,British Columbia,Clarks,Casual Sneakers,491,72177
+421,The Shoe Company,British Columbia,Clarks,Casual Sneakers,110,19140
+422,The Shoe Company,British Columbia,Columbia,Outdoor Trainers,56,4032
+423,The Shoe Company,British Columbia,Hush Puppies,Outdoor Trainers,144,11808
+424,The Shoe Company,British Columbia,Columbia,Athletic,475,72675
+425,The Shoe Company,British Columbia,Kodiak,Athletic,259,46361
+426,The Shoe Company,British Columbia,Timberland,Athletic,143,20735
+427,The Shoe Company,British Columbia,Columbia,Casual Sneakers,56,4928
+428,The Shoe Company,British Columbia,Toms,Athletic,272,36176
+429,The Shoe Company,British Columbia,Hush Puppies,Casual Sneakers,406,49126
+430,The Shoe Company,British Columbia,Timberland,Athletic,182,32760
+431,The Shoe Company,British Columbia,Timberland,Athletic,413,66906
+432,The Shoe Company,British Columbia,Hush Puppies,Casual Sneakers,119,11662
+433,The Shoe Company,British Columbia,Kodiak,Athletic,149,18178
+434,The Shoe Company,British Columbia,Columbia,Casual Sneakers,385,61600
+435,The Shoe Company,British Columbia,Bogs,Casual Sneakers,490,89180
+436,The Shoe Company,British Columbia,Timberland,Athletic,318,40704
+437,The Shoe Company,British Columbia,Fila,Athletic,492,66912
+438,The Shoe Company,British Columbia,Timberland,Casual Sneakers,82,5904
+439,The Shoe Company,British Columbia,Bogs,Athletic,318,58512
+440,The Shoe Company,Alberta,Toms,Western Boots,192,16512
+441,The Shoe Company,Alberta,Toms,Men's Casual,432,45792
+442,The Shoe Company,Alberta,Kodiak,Western Boots,281,38497
+443,The Shoe Company,Alberta,Columbia,Western Boots,263,28404
+444,The Shoe Company,Alberta,Hush Puppies,Snow Boots,430,68370
+445,The Shoe Company,Alberta,Kodiak,Snow Boots,272,29376
+446,The Shoe Company,Alberta,Toms,Western Boots,468,31356
+447,The Shoe Company,Alberta,Fila,Snow Boots,242,44044
+448,The Shoe Company,Alberta,Hush Puppies,Snow Boots,58,11078
+449,The Shoe Company,Alberta,Fila,Western Boots,436,57116
+450,The Shoe Company,Alberta,Timberland,Men's Casual,218,33354
+451,The Shoe Company,Alberta,Timberland,Men's Casual,491,94272
+452,The Shoe Company,Alberta,Kodiak,Western Boots,239,21988
+453,The Shoe Company,Alberta,Clarks,Men's Casual,103,7210
+454,The Shoe Company,Alberta,Fila,Western Boots,262,44540
+455,The Shoe Company,Alberta,Clarks,Western Boots,198,35838
+456,The Shoe Company,Alberta,Hush Puppies,Men's Casual,374,56474
+457,The Shoe Company,Alberta,Timberland,Western Boots,473,69058
+458,The Shoe Company,Alberta,Bogs,Snow Boots,200,25000
+459,The Shoe Company,Alberta,Timberland,Snow Boots,316,59408
+460,The Shoe Company,Quebec,Clarks,Unisex Sneakers,221,14586
+461,The Shoe Company,Quebec,Columbia,Fashion Boots,359,61389
+462,The Shoe Company,Quebec,Hush Puppies,Fashion Boots,269,44654
+463,The Shoe Company,Quebec,Timberland,Fashion Boots,324,29484
+464,The Shoe Company,Quebec,Toms,Unisex Sneakers,489,85086
+465,The Shoe Company,Quebec,Fila,Fashion Boots,254,30226
+466,The Shoe Company,Quebec,Fila,Winter Boots,368,68080
+467,The Shoe Company,Quebec,Toms,Unisex Sneakers,470,59690
+468,The Shoe Company,Quebec,Kodiak,Winter Boots,131,10873
+469,The Shoe Company,Quebec,Timberland,Fashion Boots,55,5610
+470,The Shoe Company,Quebec,Hush Puppies,Unisex Sneakers,478,43020
+471,The Shoe Company,Quebec,Columbia,Unisex Sneakers,67,12998
+472,The Shoe Company,Quebec,Toms,Fashion Boots,91,15470
+473,The Shoe Company,Quebec,Toms,Fashion Boots,464,39904
+474,The Shoe Company,Quebec,Timberland,Unisex Sneakers,267,34443
+475,The Shoe Company,Quebec,Columbia,Fashion Boots,118,10502
+476,The Shoe Company,Quebec,Clarks,Winter Boots,170,14960
+477,The Shoe Company,Quebec,Hush Puppies,Unisex Sneakers,481,49543
+478,The Shoe Company,Quebec,Fila,Fashion Boots,353,31417
+479,The Shoe Company,Quebec,Kodiak,Winter Boots,294,43512
+480,The Shoe Company,Manitoba,Hush Puppies,Kids' Winter,128,9600
+481,The Shoe Company,Manitoba,Clarks,Kids' Winter,59,6136
+482,The Shoe Company,Manitoba,Toms,Utility Boots,71,12496
+483,The Shoe Company,Manitoba,Kodiak,Utility Boots,116,16356
+484,The Shoe Company,Manitoba,Toms,Kids' Winter,74,7844
+485,The Shoe Company,Manitoba,Columbia,Waterproof Shoes,444,60384
+486,The Shoe Company,Manitoba,Clarks,Utility Boots,485,86815
+487,The Shoe Company,Manitoba,Kodiak,Kids' Winter,133,24738
+488,The Shoe Company,Manitoba,Columbia,Utility Boots,74,12580
+489,The Shoe Company,Manitoba,Columbia,Waterproof Shoes,181,21358
+490,The Shoe Company,Manitoba,Timberland,Utility Boots,377,29029
+491,The Shoe Company,Manitoba,Bogs,Kids' Winter,297,48411
+492,The Shoe Company,Manitoba,Kodiak,Waterproof Shoes,500,47500
+493,The Shoe Company,Manitoba,Hush Puppies,Waterproof Shoes,139,11815
+494,The Shoe Company,Manitoba,Hush Puppies,Kids' Winter,486,83592
+495,The Shoe Company,Manitoba,Kodiak,Waterproof Shoes,328,25256
+496,The Shoe Company,Manitoba,Fila,Utility Boots,86,6708
+497,The Shoe Company,Manitoba,Hush Puppies,Utility Boots,89,5785
+498,The Shoe Company,Manitoba,Timberland,Kids' Winter,144,19728
+499,The Shoe Company,Manitoba,Bogs,Waterproof Shoes,412,40376
+500,The Shoe Company,Saskatchewan,Bogs,Work Boots,354,33276
+501,The Shoe Company,Saskatchewan,Kodiak,Snow Boots,364,68796
+502,The Shoe Company,Saskatchewan,Kodiak,Everyday Shoes,60,11940
+503,The Shoe Company,Saskatchewan,Bogs,Everyday Shoes,206,26574
+504,The Shoe Company,Saskatchewan,Bogs,Snow Boots,307,35612
+505,The Shoe Company,Saskatchewan,Columbia,Work Boots,226,39098
+506,The Shoe Company,Saskatchewan,Clarks,Work Boots,211,35026
+507,The Shoe Company,Saskatchewan,Hush Puppies,Everyday Shoes,200,13600
+508,The Shoe Company,Saskatchewan,Clarks,Everyday Shoes,488,30744
+509,The Shoe Company,Saskatchewan,Hush Puppies,Work Boots,475,29925
+510,The Shoe Company,Saskatchewan,Kodiak,Work Boots,109,21037
+511,The Shoe Company,Saskatchewan,Columbia,Work Boots,215,13330
+512,The Shoe Company,Saskatchewan,Bogs,Snow Boots,377,63336
+513,The Shoe Company,Saskatchewan,Kodiak,Snow Boots,316,48348
+514,The Shoe Company,Saskatchewan,Fila,Everyday Shoes,203,34104
+515,The Shoe Company,Saskatchewan,Toms,Work Boots,182,19474
+516,The Shoe Company,Saskatchewan,Kodiak,Everyday Shoes,434,32550
+517,The Shoe Company,Saskatchewan,Clarks,Work Boots,158,27966
+518,The Shoe Company,Saskatchewan,Kodiak,Snow Boots,460,40480
+519,The Shoe Company,Saskatchewan,Kodiak,Work Boots,317,21239
+520,The Shoe Company,Nova Scotia,Bogs,Casual Loafers,444,42180
+521,The Shoe Company,Nova Scotia,Kodiak,Comfort Shoes,380,62700
+522,The Shoe Company,Nova Scotia,Bogs,Casual Loafers,245,40425
+523,The Shoe Company,Nova Scotia,Kodiak,Casual Loafers,434,50344
+524,The Shoe Company,Nova Scotia,Columbia,Slip-ons,430,59770
+525,The Shoe Company,Nova Scotia,Bogs,Comfort Shoes,250,26750
+526,The Shoe Company,Nova Scotia,Hush Puppies,Comfort Shoes,199,24079
+527,The Shoe Company,Nova Scotia,Columbia,Casual Loafers,442,35802
+528,The Shoe Company,Nova Scotia,Clarks,Casual Loafers,394,35066
+529,The Shoe Company,Nova Scotia,Hush Puppies,Comfort Shoes,498,53286
+530,The Shoe Company,Nova Scotia,Hush Puppies,Comfort Shoes,421,41679
+531,The Shoe Company,Nova Scotia,Bogs,Casual Loafers,342,51984
+532,The Shoe Company,Nova Scotia,Columbia,Slip-ons,212,33284
+533,The Shoe Company,Nova Scotia,Fila,Casual Loafers,197,14775
+534,The Shoe Company,Nova Scotia,Columbia,Comfort Shoes,284,30956
+535,The Shoe Company,Nova Scotia,Bogs,Comfort Shoes,148,26936
+536,The Shoe Company,Nova Scotia,Timberland,Slip-ons,281,36249
+537,The Shoe Company,Nova Scotia,Columbia,Comfort Shoes,246,47724
+538,The Shoe Company,Nova Scotia,Toms,Casual Loafers,247,33345
+539,The Shoe Company,Nova Scotia,Kodiak,Comfort Shoes,423,41031
+540,The Shoe Company,Newfoundland,Bogs,Waterproof Footwear,301,46655
+541,The Shoe Company,Newfoundland,Toms,Insulated Boots,218,25070
+542,The Shoe Company,Newfoundland,Columbia,Heavy-duty Boots,85,11815
+543,The Shoe Company,Newfoundland,Columbia,Heavy-duty Boots,131,23973
+544,The Shoe Company,Newfoundland,Timberland,Insulated Boots,297,58509
+545,The Shoe Company,Newfoundland,Columbia,Heavy-duty Boots,454,61290
+546,The Shoe Company,Newfoundland,Bogs,Waterproof Footwear,311,58157
+547,The Shoe Company,Newfoundland,Timberland,Waterproof Footwear,98,9310
+548,The Shoe Company,Newfoundland,Hush Puppies,Insulated Boots,431,31894
+549,The Shoe Company,Newfoundland,Clarks,Waterproof Footwear,463,56949
+550,The Shoe Company,Newfoundland,Bogs,Insulated Boots,420,74760
+551,The Shoe Company,Newfoundland,Toms,Waterproof Footwear,396,66924
+552,The Shoe Company,Newfoundland,Hush Puppies,Waterproof Footwear,478,53058
+553,The Shoe Company,Newfoundland,Kodiak,Waterproof Footwear,74,12136
+554,The Shoe Company,Newfoundland,Fila,Waterproof Footwear,250,47000
+555,The Shoe Company,Newfoundland,Kodiak,Heavy-duty Boots,61,4331
+556,The Shoe Company,Newfoundland,Fila,Insulated Boots,263,52337
+557,The Shoe Company,Newfoundland,Toms,Insulated Boots,98,13622
+558,The Shoe Company,Newfoundland,Clarks,Heavy-duty Boots,257,30840
+559,The Shoe Company,Newfoundland,Timberland,Heavy-duty Boots,221,26520
+560,The Shoe Company,New Brunswick,Columbia,Unisex Casual,462,77154
+561,The Shoe Company,New Brunswick,Hush Puppies,Kids' Shoes,317,45965
+562,The Shoe Company,New Brunswick,Timberland,General Footwear,403,43121
+563,The Shoe Company,New Brunswick,Kodiak,Kids' Shoes,494,43472
+564,The Shoe Company,New Brunswick,Toms,Unisex Casual,293,23440
+565,The Shoe Company,New Brunswick,Toms,Unisex Casual,186,32922
+566,The Shoe Company,New Brunswick,Clarks,Unisex Casual,215,23220
+567,The Shoe Company,New Brunswick,Timberland,General Footwear,139,18209
+568,The Shoe Company,New Brunswick,Toms,General Footwear,398,57312
+569,The Shoe Company,New Brunswick,Bogs,General Footwear,424,59360
+570,The Shoe Company,New Brunswick,Fila,Kids' Shoes,406,73080
+571,The Shoe Company,New Brunswick,Bogs,General Footwear,221,26078
+572,The Shoe Company,New Brunswick,Kodiak,General Footwear,140,19040
+573,The Shoe Company,New Brunswick,Kodiak,Unisex Casual,199,31044
+574,The Shoe Company,New Brunswick,Clarks,Kids' Shoes,396,66924
+575,The Shoe Company,New Brunswick,Hush Puppies,Kids' Shoes,489,81174
+576,The Shoe Company,New Brunswick,Clarks,Unisex Casual,296,40848
+577,The Shoe Company,New Brunswick,Columbia,Kids' Shoes,359,35182
+578,The Shoe Company,New Brunswick,Clarks,Kids' Shoes,71,5396
+579,The Shoe Company,New Brunswick,Timberland,Kids' Shoes,384,29184
+580,The Shoe Company,PEI,Kodiak,Sandals,156,13416
+581,The Shoe Company,PEI,Toms,Loafers,175,27650
+582,The Shoe Company,PEI,Kodiak,Loafers,449,47145
+583,The Shoe Company,PEI,Columbia,Light Casual,212,14416
+584,The Shoe Company,PEI,Fila,Sandals,73,12848
+585,The Shoe Company,PEI,Timberland,Light Casual,129,16512
+586,The Shoe Company,PEI,Toms,Sandals,403,71331
+587,The Shoe Company,PEI,Timberland,Loafers,61,9028
+588,The Shoe Company,PEI,Kodiak,Light Casual,455,54145
+589,The Shoe Company,PEI,Clarks,Sandals,90,5670
+590,The Shoe Company,PEI,Timberland,Sandals,212,27560
+591,The Shoe Company,PEI,Kodiak,Light Casual,294,29400
+592,The Shoe Company,PEI,Hush Puppies,Light Casual,67,5896
+593,The Shoe Company,PEI,Columbia,Sandals,394,61464
+594,The Shoe Company,PEI,Toms,Sandals,113,7797
+595,The Shoe Company,PEI,Fila,Sandals,233,19572
+596,The Shoe Company,PEI,Bogs,Loafers,90,14130
+597,The Shoe Company,PEI,Columbia,Sandals,410,63140
+598,The Shoe Company,PEI,Hush Puppies,Light Casual,371,28196
+599,The Shoe Company,PEI,Columbia,Light Casual,223,33673

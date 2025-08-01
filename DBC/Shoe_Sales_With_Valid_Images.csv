@@ -1,0 +1,575 @@
+Index,Company,Province,Brand,Category,Units Sold,Revenue,Image_URL,Company Logo
+1,DSW,Ontario,Adidas,Kids' Casual,231,20097,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+2,DSW,Ontario,Crocs,Women's Workwear,212,15900,https://i.postimg.cc/j5mmng5P/crocslogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+3,DSW,Ontario,UGG,Women's Workwear,334,20708,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Ugg.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+4,DSW,Ontario,Nike,Men's Formal,435,36105,https://i.postimg.cc/MH1PMzgJ/nikelogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+5,DSW,Ontario,Puma,Women's Workwear,473,50138,https://i.postimg.cc/nctw8QQF/pumalogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+6,DSW,Ontario,Adidas,Women's Workwear,345,58995,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+7,DSW,Ontario,UGG,Women's Workwear,277,36010,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Ugg.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+9,DSW,Ontario,Adidas,Women's Workwear,230,34730,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+10,DSW,Ontario,Nike,Kids' Casual,329,65142,https://i.postimg.cc/MH1PMzgJ/nikelogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+12,DSW,Ontario,UGG,Women's Workwear,112,7616,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Ugg.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+13,DSW,Ontario,Nike,Women's Workwear,175,16975,https://i.postimg.cc/MH1PMzgJ/nikelogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+14,DSW,Ontario,Nike,Women's Workwear,69,4899,https://i.postimg.cc/MH1PMzgJ/nikelogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+15,DSW,Ontario,Adidas,Kids' Casual,209,34276,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+16,DSW,Ontario,Puma,Kids' Casual,230,25300,https://i.postimg.cc/nctw8QQF/pumalogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+17,DSW,Ontario,Crocs,Men's Formal,245,33565,https://i.postimg.cc/j5mmng5P/crocslogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+18,DSW,Ontario,Puma,Men's Formal,89,13973,https://i.postimg.cc/nctw8QQF/pumalogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+19,DSW,Ontario,Nike,Kids' Casual,135,23355,https://i.postimg.cc/MH1PMzgJ/nikelogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+20,DSW,British Columbia,Adidas,Athletic,201,34170,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+21,DSW,British Columbia,Crocs,Outdoor Trainers,391,46529,https://i.postimg.cc/j5mmng5P/crocslogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+22,DSW,British Columbia,UGG,Outdoor Trainers,262,31702,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Ugg.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+24,DSW,British Columbia,Adidas,Outdoor Trainers,211,14348,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+25,DSW,British Columbia,UGG,Casual Sneakers,250,26500,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Ugg.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+27,DSW,British Columbia,UGG,Athletic,141,12126,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Ugg.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+28,DSW,British Columbia,Puma,Athletic,353,63540,https://i.postimg.cc/nctw8QQF/pumalogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+29,DSW,British Columbia,Kelly & Katie,Outdoor Trainers,367,43673,https://i.postimg.cc/sf5wJDHt/kklogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+30,DSW,British Columbia,Adidas,Athletic,312,55848,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+31,DSW,British Columbia,Kelly & Katie,Casual Sneakers,255,23460,https://i.postimg.cc/sf5wJDHt/kklogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+32,DSW,British Columbia,UGG,Casual Sneakers,388,54708,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Ugg.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+33,DSW,British Columbia,Nike,Outdoor Trainers,279,43803,https://i.postimg.cc/MH1PMzgJ/nikelogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+34,DSW,British Columbia,Puma,Athletic,166,18260,https://i.postimg.cc/nctw8QQF/pumalogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+35,DSW,British Columbia,Kelly & Katie,Outdoor Trainers,121,12100,https://i.postimg.cc/sf5wJDHt/kklogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+36,DSW,British Columbia,Adidas,Athletic,186,29202,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+38,DSW,British Columbia,Mix no. 6,Casual Sneakers,480,84000,https://i.postimg.cc/Vs9WCZdw/mixlogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+39,DSW,British Columbia,Adidas,Outdoor Trainers,394,29550,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+41,DSW,Alberta,Nike,Snow Boots,319,45298,https://i.postimg.cc/MH1PMzgJ/nikelogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+42,DSW,Alberta,Mix no. 6,Western Boots,55,7645,https://i.postimg.cc/Vs9WCZdw/mixlogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+43,DSW,Alberta,UGG,Men's Casual,95,17860,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Ugg.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+44,DSW,Alberta,Mix no. 6,Men's Casual,241,48200,https://i.postimg.cc/Vs9WCZdw/mixlogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+45,DSW,Alberta,Crocs,Western Boots,457,67179,https://i.postimg.cc/j5mmng5P/crocslogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+46,DSW,Alberta,Crocs,Men's Casual,464,90016,https://i.postimg.cc/j5mmng5P/crocslogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+47,DSW,Alberta,Mix no. 6,Western Boots,389,32287,https://i.postimg.cc/Vs9WCZdw/mixlogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+48,DSW,Alberta,Nike,Men's Casual,309,38625,https://i.postimg.cc/MH1PMzgJ/nikelogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+49,DSW,Alberta,Mix no. 6,Western Boots,89,17711,https://i.postimg.cc/Vs9WCZdw/mixlogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+50,DSW,Alberta,Mix no. 6,Men's Casual,231,14553,https://i.postimg.cc/Vs9WCZdw/mixlogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+51,DSW,Alberta,UGG,Snow Boots,109,9483,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Ugg.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+52,DSW,Alberta,Kelly & Katie,Men's Casual,84,15036,https://i.postimg.cc/sf5wJDHt/kklogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+53,DSW,Alberta,Kelly & Katie,Men's Casual,287,22673,https://i.postimg.cc/sf5wJDHt/kklogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+54,DSW,Alberta,Adidas,Western Boots,132,10032,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+55,DSW,Alberta,Adidas,Western Boots,116,17284,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+56,DSW,Alberta,Mix no. 6,Western Boots,170,14450,https://i.postimg.cc/Vs9WCZdw/mixlogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+57,DSW,Alberta,Adidas,Western Boots,119,11186,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+58,DSW,Alberta,Mix no. 6,Western Boots,143,25311,https://i.postimg.cc/Vs9WCZdw/mixlogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+59,DSW,Alberta,Puma,Western Boots,367,70831,https://i.postimg.cc/nctw8QQF/pumalogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+60,DSW,Quebec,Mix no. 6,Unisex Sneakers,392,37240,https://i.postimg.cc/Vs9WCZdw/mixlogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+61,DSW,Quebec,Crocs,Unisex Sneakers,460,56120,https://i.postimg.cc/j5mmng5P/crocslogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+62,DSW,Quebec,Mix no. 6,Winter Boots,351,64233,https://i.postimg.cc/Vs9WCZdw/mixlogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+63,DSW,Quebec,Mix no. 6,Fashion Boots,99,16137,https://i.postimg.cc/Vs9WCZdw/mixlogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+64,DSW,Quebec,Adidas,Unisex Sneakers,62,7192,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+65,DSW,Quebec,Crocs,Unisex Sneakers,328,36080,https://i.postimg.cc/j5mmng5P/crocslogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+66,DSW,Quebec,Adidas,Fashion Boots,175,34125,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+67,DSW,Quebec,Mix no. 6,Fashion Boots,64,8256,https://i.postimg.cc/Vs9WCZdw/mixlogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+68,DSW,Quebec,UGG,Unisex Sneakers,69,9039,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Ugg.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+69,DSW,Quebec,Puma,Unisex Sneakers,212,19080,https://i.postimg.cc/nctw8QQF/pumalogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+70,DSW,Quebec,Mix no. 6,Unisex Sneakers,253,24288,https://i.postimg.cc/Vs9WCZdw/mixlogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+71,DSW,Quebec,Mix no. 6,Unisex Sneakers,499,98802,https://i.postimg.cc/Vs9WCZdw/mixlogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+72,DSW,Quebec,Adidas,Fashion Boots,159,20193,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+73,DSW,Quebec,Adidas,Fashion Boots,348,66816,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+74,DSW,Quebec,UGG,Winter Boots,272,34544,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Ugg.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+75,DSW,Quebec,UGG,Fashion Boots,283,55185,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Ugg.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+76,DSW,Quebec,Puma,Fashion Boots,200,24600,https://i.postimg.cc/nctw8QQF/pumalogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+77,DSW,Quebec,Crocs,Fashion Boots,469,53466,https://i.postimg.cc/j5mmng5P/crocslogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+78,DSW,Quebec,Mix no. 6,Fashion Boots,161,24472,https://i.postimg.cc/Vs9WCZdw/mixlogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+79,DSW,Quebec,Adidas,Winter Boots,176,24992,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+80,DSW,Manitoba,Mix no. 6,Waterproof Shoes,481,85137,https://i.postimg.cc/Vs9WCZdw/mixlogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+81,DSW,Manitoba,Puma,Kids' Winter,338,20280,https://i.postimg.cc/nctw8QQF/pumalogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+82,DSW,Manitoba,Adidas,Waterproof Shoes,406,75516,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+83,DSW,Manitoba,UGG,Kids' Winter,101,12221,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Ugg.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+84,DSW,Manitoba,Puma,Kids' Winter,179,17900,https://i.postimg.cc/nctw8QQF/pumalogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+85,DSW,Manitoba,Adidas,Waterproof Shoes,271,39295,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+88,DSW,Manitoba,Puma,Kids' Winter,230,44620,https://i.postimg.cc/nctw8QQF/pumalogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+89,DSW,Manitoba,Crocs,Waterproof Shoes,180,13680,https://i.postimg.cc/j5mmng5P/crocslogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+92,DSW,Manitoba,Puma,Utility Boots,276,22908,https://i.postimg.cc/nctw8QQF/pumalogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+94,DSW,Manitoba,Nike,Kids' Winter,194,17848,https://i.postimg.cc/MH1PMzgJ/nikelogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+95,DSW,Manitoba,Puma,Utility Boots,174,22968,https://i.postimg.cc/nctw8QQF/pumalogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+96,DSW,Manitoba,Kelly & Katie,Utility Boots,77,14168,https://i.postimg.cc/sf5wJDHt/kklogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+97,DSW,Manitoba,UGG,Waterproof Shoes,308,45276,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Ugg.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+98,DSW,Manitoba,Puma,Utility Boots,252,49392,https://i.postimg.cc/nctw8QQF/pumalogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+99,DSW,Manitoba,Nike,Utility Boots,396,34848,https://i.postimg.cc/MH1PMzgJ/nikelogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+100,DSW,Saskatchewan,Puma,Everyday Shoes,53,6042,https://i.postimg.cc/nctw8QQF/pumalogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+101,DSW,Saskatchewan,Kelly & Katie,Work Boots,400,42400,https://i.postimg.cc/sf5wJDHt/kklogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+102,DSW,Saskatchewan,UGG,Everyday Shoes,313,50393,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Ugg.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+103,DSW,Saskatchewan,UGG,Snow Boots,405,70065,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Ugg.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+104,DSW,Saskatchewan,UGG,Everyday Shoes,335,30150,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Ugg.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+105,DSW,Saskatchewan,Nike,Work Boots,383,34087,https://i.postimg.cc/MH1PMzgJ/nikelogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+106,DSW,Saskatchewan,Nike,Everyday Shoes,221,34255,https://i.postimg.cc/MH1PMzgJ/nikelogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+107,DSW,Saskatchewan,Mix no. 6,Snow Boots,261,23229,https://i.postimg.cc/Vs9WCZdw/mixlogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+108,DSW,Saskatchewan,Crocs,Work Boots,449,63758,https://i.postimg.cc/j5mmng5P/crocslogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+109,DSW,Saskatchewan,Nike,Snow Boots,339,60003,https://i.postimg.cc/MH1PMzgJ/nikelogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+110,DSW,Saskatchewan,Adidas,Everyday Shoes,362,50318,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+111,DSW,Saskatchewan,UGG,Snow Boots,296,58608,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Ugg.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+112,DSW,Saskatchewan,Nike,Snow Boots,278,51986,https://i.postimg.cc/MH1PMzgJ/nikelogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+113,DSW,Saskatchewan,UGG,Snow Boots,80,10400,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Ugg.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+115,DSW,Saskatchewan,Kelly & Katie,Work Boots,474,85794,https://i.postimg.cc/sf5wJDHt/kklogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+116,DSW,Saskatchewan,Adidas,Everyday Shoes,95,12255,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+117,DSW,Saskatchewan,Crocs,Work Boots,438,72270,https://i.postimg.cc/j5mmng5P/crocslogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+118,DSW,Saskatchewan,Adidas,Everyday Shoes,200,18400,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+120,DSW,Nova Scotia,Kelly & Katie,Casual Loafers,124,10292,https://i.postimg.cc/sf5wJDHt/kklogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+121,DSW,Nova Scotia,Puma,Casual Loafers,304,38608,https://i.postimg.cc/nctw8QQF/pumalogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+122,DSW,Nova Scotia,Adidas,Slip-ons,447,28608,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+124,DSW,Nova Scotia,Nike,Casual Loafers,175,12075,https://i.postimg.cc/MH1PMzgJ/nikelogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+126,DSW,Nova Scotia,Kelly & Katie,Slip-ons,441,67032,https://i.postimg.cc/sf5wJDHt/kklogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+127,DSW,Nova Scotia,Kelly & Katie,Slip-ons,50,8350,https://i.postimg.cc/sf5wJDHt/kklogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+128,DSW,Nova Scotia,Adidas,Casual Loafers,249,41085,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+129,DSW,Nova Scotia,Nike,Slip-ons,163,30970,https://i.postimg.cc/MH1PMzgJ/nikelogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+131,DSW,Nova Scotia,Mix no. 6,Casual Loafers,194,20370,https://i.postimg.cc/Vs9WCZdw/mixlogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+133,DSW,Nova Scotia,Adidas,Comfort Shoes,108,17064,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+134,DSW,Nova Scotia,Mix no. 6,Slip-ons,132,21516,https://i.postimg.cc/Vs9WCZdw/mixlogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+135,DSW,Nova Scotia,UGG,Comfort Shoes,272,32368,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Ugg.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+136,DSW,Nova Scotia,Mix no. 6,Slip-ons,180,32940,https://i.postimg.cc/Vs9WCZdw/mixlogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+137,DSW,Nova Scotia,Mix no. 6,Casual Loafers,380,74480,https://i.postimg.cc/Vs9WCZdw/mixlogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+138,DSW,Nova Scotia,Crocs,Casual Loafers,439,66728,https://i.postimg.cc/j5mmng5P/crocslogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+139,DSW,Nova Scotia,Kelly & Katie,Casual Loafers,205,20295,https://i.postimg.cc/sf5wJDHt/kklogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+140,DSW,Newfoundland,UGG,Waterproof Footwear,210,40740,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Ugg.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+141,DSW,Newfoundland,Puma,Heavy-duty Boots,278,40588,https://i.postimg.cc/nctw8QQF/pumalogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+142,DSW,Newfoundland,Adidas,Insulated Boots,346,68508,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+143,DSW,Newfoundland,Mix no. 6,Insulated Boots,97,19303,https://i.postimg.cc/Vs9WCZdw/mixlogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+145,DSW,Newfoundland,Adidas,Heavy-duty Boots,231,30030,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+146,DSW,Newfoundland,UGG,Heavy-duty Boots,86,9890,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Ugg.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+147,DSW,Newfoundland,Kelly & Katie,Heavy-duty Boots,497,40257,https://i.postimg.cc/sf5wJDHt/kklogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+148,DSW,Newfoundland,Mix no. 6,Insulated Boots,255,42330,https://i.postimg.cc/Vs9WCZdw/mixlogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+149,DSW,Newfoundland,Nike,Insulated Boots,193,15440,https://i.postimg.cc/MH1PMzgJ/nikelogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+150,DSW,Newfoundland,Mix no. 6,Insulated Boots,250,18000,https://i.postimg.cc/Vs9WCZdw/mixlogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+151,DSW,Newfoundland,Puma,Waterproof Footwear,259,40663,https://i.postimg.cc/nctw8QQF/pumalogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+152,DSW,Newfoundland,Crocs,Insulated Boots,157,14915,https://i.postimg.cc/j5mmng5P/crocslogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+153,DSW,Newfoundland,UGG,Heavy-duty Boots,193,29722,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Ugg.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+154,DSW,Newfoundland,Puma,Insulated Boots,160,20160,https://i.postimg.cc/nctw8QQF/pumalogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+155,DSW,Newfoundland,Adidas,Heavy-duty Boots,71,8236,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+156,DSW,Newfoundland,Nike,Insulated Boots,266,48678,https://i.postimg.cc/MH1PMzgJ/nikelogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+157,DSW,Newfoundland,Crocs,Heavy-duty Boots,138,14076,https://i.postimg.cc/j5mmng5P/crocslogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+158,DSW,Newfoundland,Kelly & Katie,Waterproof Footwear,244,46604,https://i.postimg.cc/sf5wJDHt/kklogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+159,DSW,Newfoundland,Kelly & Katie,Waterproof Footwear,385,48895,https://i.postimg.cc/sf5wJDHt/kklogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+160,DSW,New Brunswick,Mix no. 6,Unisex Casual,449,79922,https://i.postimg.cc/Vs9WCZdw/mixlogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+162,DSW,New Brunswick,Nike,Kids' Shoes,481,71188,https://i.postimg.cc/MH1PMzgJ/nikelogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+163,DSW,New Brunswick,Puma,General Footwear,116,20648,https://i.postimg.cc/nctw8QQF/pumalogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+164,DSW,New Brunswick,Puma,Unisex Casual,399,60648,https://i.postimg.cc/nctw8QQF/pumalogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+165,DSW,New Brunswick,UGG,General Footwear,152,17784,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Ugg.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+166,DSW,New Brunswick,Mix no. 6,Unisex Casual,478,53536,https://i.postimg.cc/Vs9WCZdw/mixlogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+167,DSW,New Brunswick,Puma,General Footwear,147,12348,https://i.postimg.cc/nctw8QQF/pumalogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+168,DSW,New Brunswick,Kelly & Katie,General Footwear,162,13284,https://i.postimg.cc/sf5wJDHt/kklogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+169,DSW,New Brunswick,Crocs,General Footwear,322,35742,https://i.postimg.cc/j5mmng5P/crocslogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+171,DSW,New Brunswick,Nike,Kids' Shoes,199,34825,https://i.postimg.cc/MH1PMzgJ/nikelogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+174,DSW,New Brunswick,Mix no. 6,Kids' Shoes,70,12950,https://i.postimg.cc/Vs9WCZdw/mixlogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+176,DSW,New Brunswick,Nike,Unisex Casual,316,42028,https://i.postimg.cc/MH1PMzgJ/nikelogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+177,DSW,New Brunswick,UGG,General Footwear,411,31647,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Ugg.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+178,DSW,New Brunswick,Nike,General Footwear,99,11088,https://i.postimg.cc/MH1PMzgJ/nikelogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+179,DSW,New Brunswick,Nike,Kids' Shoes,365,41975,https://i.postimg.cc/MH1PMzgJ/nikelogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+180,DSW,PEI,Kelly & Katie,Light Casual,139,18487,https://i.postimg.cc/sf5wJDHt/kklogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+181,DSW,PEI,UGG,Sandals,222,41958,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Ugg.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+183,DSW,PEI,Adidas,Sandals,166,31872,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+184,DSW,PEI,Adidas,Loafers,311,47583,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+185,DSW,PEI,Adidas,Sandals,288,41760,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+186,DSW,PEI,Nike,Loafers,198,23958,https://i.postimg.cc/MH1PMzgJ/nikelogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+187,DSW,PEI,UGG,Loafers,492,86592,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Ugg.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+188,DSW,PEI,Kelly & Katie,Loafers,346,20760,https://i.postimg.cc/sf5wJDHt/kklogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+189,DSW,PEI,Nike,Loafers,89,11570,https://i.postimg.cc/MH1PMzgJ/nikelogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+190,DSW,PEI,Adidas,Sandals,150,10050,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+191,DSW,PEI,Adidas,Sandals,200,16200,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-adidas.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+193,DSW,PEI,Kelly & Katie,Light Casual,406,42630,https://i.postimg.cc/sf5wJDHt/kklogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+194,DSW,PEI,Puma,Light Casual,252,34776,https://i.postimg.cc/nctw8QQF/pumalogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+195,DSW,PEI,Crocs,Sandals,170,20060,https://i.postimg.cc/j5mmng5P/crocslogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+196,DSW,PEI,Nike,Sandals,79,14062,https://i.postimg.cc/MH1PMzgJ/nikelogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+197,DSW,PEI,Crocs,Loafers,330,22110,https://i.postimg.cc/j5mmng5P/crocslogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+198,DSW,PEI,UGG,Light Casual,115,16675,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Ugg.jpg,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+199,DSW,PEI,Kelly & Katie,Loafers,51,8823,https://i.postimg.cc/sf5wJDHt/kklogo.png,https://images.dsw.ca/is/image/dswca/dsw_logo_default.jpg
+200,Rubino,Ontario,Converse,Women's Workwear,283,23489,https://i.postimg.cc/tCWJT8Td/converse.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+201,Rubino,Ontario,Jessica Simpson,Women's Workwear,450,67500,https://i.postimg.cc/gjq99yzh/jsimplogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+202,Rubino,Ontario,Dr. Martens,Women's Workwear,280,48720,https://i.postimg.cc/k4vwqTS7/drmartinlogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+203,Rubino,Ontario,New Balance,Women's Workwear,433,29877,https://i.postimg.cc/qBQQFZ0L/nblogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+204,Rubino,Ontario,Skechers,Men's Formal,432,78624,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-skechers.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+205,Rubino,Ontario,Converse,Women's Workwear,396,31284,https://i.postimg.cc/tCWJT8Td/converse.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+206,Rubino,Ontario,Converse,Men's Formal,367,53582,https://i.postimg.cc/tCWJT8Td/converse.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+207,Rubino,Ontario,New Balance,Men's Formal,474,33654,https://i.postimg.cc/qBQQFZ0L/nblogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+208,Rubino,Ontario,Birkenstock,Kids' Casual,199,20696,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+209,Rubino,Ontario,Reebok,Women's Workwear,76,5776,https://i.postimg.cc/Gpryddxs/reebok.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+210,Rubino,Ontario,Jessica Simpson,Kids' Casual,395,52930,https://i.postimg.cc/gjq99yzh/jsimplogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+211,Rubino,Ontario,Converse,Men's Formal,266,36176,https://i.postimg.cc/tCWJT8Td/converse.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+212,Rubino,Ontario,Birkenstock,Kids' Casual,443,85056,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+213,Rubino,Ontario,Reebok,Kids' Casual,65,4680,https://i.postimg.cc/Gpryddxs/reebok.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+214,Rubino,Ontario,Converse,Kids' Casual,150,15300,https://i.postimg.cc/tCWJT8Td/converse.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+215,Rubino,Ontario,Jessica Simpson,Women's Workwear,67,11323,https://i.postimg.cc/gjq99yzh/jsimplogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+216,Rubino,Ontario,Birkenstock,Men's Formal,140,16660,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+217,Rubino,Ontario,Vans,Men's Formal,435,27840,https://i.postimg.cc/FRz1HRd1/vanslogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+218,Rubino,Ontario,New Balance,Kids' Casual,323,35530,https://i.postimg.cc/qBQQFZ0L/nblogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+219,Rubino,Ontario,Skechers,Men's Formal,255,51000,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-skechers.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+220,Rubino,British Columbia,Birkenstock,Outdoor Trainers,55,10450,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+221,Rubino,British Columbia,Dr. Martens,Outdoor Trainers,297,52569,https://i.postimg.cc/k4vwqTS7/drmartinlogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+222,Rubino,British Columbia,New Balance,Outdoor Trainers,167,22378,https://i.postimg.cc/qBQQFZ0L/nblogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+223,Rubino,British Columbia,Birkenstock,Casual Sneakers,173,26815,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+224,Rubino,British Columbia,Skechers,Casual Sneakers,322,38640,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-skechers.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+225,Rubino,British Columbia,Converse,Athletic,52,4212,https://i.postimg.cc/tCWJT8Td/converse.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+226,Rubino,British Columbia,Skechers,Outdoor Trainers,245,47775,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-skechers.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+227,Rubino,British Columbia,New Balance,Casual Sneakers,158,18012,https://i.postimg.cc/qBQQFZ0L/nblogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+228,Rubino,British Columbia,Reebok,Outdoor Trainers,301,44548,https://i.postimg.cc/Gpryddxs/reebok.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+229,Rubino,British Columbia,New Balance,Casual Sneakers,378,60858,https://i.postimg.cc/qBQQFZ0L/nblogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+230,Rubino,British Columbia,Converse,Outdoor Trainers,271,35772,https://i.postimg.cc/tCWJT8Td/converse.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+231,Rubino,British Columbia,Vans,Athletic,452,76840,https://i.postimg.cc/FRz1HRd1/vanslogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+232,Rubino,British Columbia,Jessica Simpson,Casual Sneakers,458,27480,https://i.postimg.cc/gjq99yzh/jsimplogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+233,Rubino,British Columbia,Jessica Simpson,Casual Sneakers,129,15222,https://i.postimg.cc/gjq99yzh/jsimplogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+234,Rubino,British Columbia,Skechers,Outdoor Trainers,278,54766,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-skechers.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+235,Rubino,British Columbia,Converse,Athletic,255,40290,https://i.postimg.cc/tCWJT8Td/converse.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+236,Rubino,British Columbia,Converse,Outdoor Trainers,212,40280,https://i.postimg.cc/tCWJT8Td/converse.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+237,Rubino,British Columbia,Birkenstock,Outdoor Trainers,159,10971,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+238,Rubino,British Columbia,Converse,Outdoor Trainers,267,40050,https://i.postimg.cc/tCWJT8Td/converse.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+239,Rubino,British Columbia,Skechers,Casual Sneakers,376,56776,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-skechers.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+240,Rubino,Alberta,Reebok,Men's Casual,148,17020,https://i.postimg.cc/Gpryddxs/reebok.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+241,Rubino,Alberta,Vans,Men's Casual,228,27360,https://i.postimg.cc/FRz1HRd1/vanslogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+242,Rubino,Alberta,Reebok,Western Boots,267,16287,https://i.postimg.cc/Gpryddxs/reebok.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+243,Rubino,Alberta,Birkenstock,Men's Casual,262,30654,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+244,Rubino,Alberta,Vans,Western Boots,230,22540,https://i.postimg.cc/FRz1HRd1/vanslogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+245,Rubino,Alberta,Dr. Martens,Snow Boots,131,10873,https://i.postimg.cc/k4vwqTS7/drmartinlogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+246,Rubino,Alberta,Jessica Simpson,Men's Casual,391,23851,https://i.postimg.cc/gjq99yzh/jsimplogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+247,Rubino,Alberta,Reebok,Men's Casual,50,3100,https://i.postimg.cc/Gpryddxs/reebok.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+248,Rubino,Alberta,Vans,Western Boots,92,8004,https://i.postimg.cc/FRz1HRd1/vanslogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+249,Rubino,Alberta,Birkenstock,Snow Boots,464,74240,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+250,Rubino,Alberta,Dr. Martens,Men's Casual,220,18700,https://i.postimg.cc/k4vwqTS7/drmartinlogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+251,Rubino,Alberta,Jessica Simpson,Men's Casual,261,38106,https://i.postimg.cc/gjq99yzh/jsimplogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+252,Rubino,Alberta,Birkenstock,Snow Boots,212,42188,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+253,Rubino,Alberta,New Balance,Snow Boots,378,40068,https://i.postimg.cc/qBQQFZ0L/nblogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+254,Rubino,Alberta,Dr. Martens,Western Boots,371,70490,https://i.postimg.cc/k4vwqTS7/drmartinlogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+255,Rubino,Alberta,Vans,Men's Casual,155,26195,https://i.postimg.cc/FRz1HRd1/vanslogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+256,Rubino,Alberta,Birkenstock,Western Boots,282,42018,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+257,Rubino,Alberta,Converse,Western Boots,246,44034,https://i.postimg.cc/tCWJT8Td/converse.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+258,Rubino,Alberta,Reebok,Men's Casual,264,41976,https://i.postimg.cc/Gpryddxs/reebok.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+259,Rubino,Alberta,Birkenstock,Snow Boots,298,51852,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+260,Rubino,Quebec,Birkenstock,Unisex Sneakers,239,16013,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+261,Rubino,Quebec,Vans,Winter Boots,411,46443,https://i.postimg.cc/FRz1HRd1/vanslogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+262,Rubino,Quebec,Vans,Winter Boots,372,59520,https://i.postimg.cc/FRz1HRd1/vanslogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+263,Rubino,Quebec,Dr. Martens,Unisex Sneakers,331,24163,https://i.postimg.cc/k4vwqTS7/drmartinlogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+264,Rubino,Quebec,Converse,Fashion Boots,327,19947,https://i.postimg.cc/tCWJT8Td/converse.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+265,Rubino,Quebec,Reebok,Unisex Sneakers,430,71380,https://i.postimg.cc/Gpryddxs/reebok.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+266,Rubino,Quebec,New Balance,Fashion Boots,111,9990,https://i.postimg.cc/qBQQFZ0L/nblogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+267,Rubino,Quebec,Birkenstock,Unisex Sneakers,391,62951,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+268,Rubino,Quebec,Vans,Unisex Sneakers,101,15251,https://i.postimg.cc/FRz1HRd1/vanslogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+269,Rubino,Quebec,Dr. Martens,Fashion Boots,156,16692,https://i.postimg.cc/k4vwqTS7/drmartinlogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+270,Rubino,Quebec,Jessica Simpson,Unisex Sneakers,181,35476,https://i.postimg.cc/gjq99yzh/jsimplogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+271,Rubino,Quebec,Converse,Unisex Sneakers,472,34928,https://i.postimg.cc/tCWJT8Td/converse.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+272,Rubino,Quebec,New Balance,Winter Boots,271,20596,https://i.postimg.cc/qBQQFZ0L/nblogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+273,Rubino,Quebec,Dr. Martens,Unisex Sneakers,149,28161,https://i.postimg.cc/k4vwqTS7/drmartinlogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+274,Rubino,Quebec,Birkenstock,Unisex Sneakers,276,45264,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+275,Rubino,Quebec,Birkenstock,Fashion Boots,117,7254,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+276,Rubino,Quebec,Reebok,Winter Boots,178,25810,https://i.postimg.cc/Gpryddxs/reebok.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+277,Rubino,Quebec,New Balance,Fashion Boots,377,24128,https://i.postimg.cc/qBQQFZ0L/nblogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+278,Rubino,Quebec,Dr. Martens,Winter Boots,480,52800,https://i.postimg.cc/k4vwqTS7/drmartinlogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+279,Rubino,Quebec,New Balance,Unisex Sneakers,360,59040,https://i.postimg.cc/qBQQFZ0L/nblogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+280,Rubino,Manitoba,Jessica Simpson,Kids' Winter,90,9630,https://i.postimg.cc/gjq99yzh/jsimplogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+281,Rubino,Manitoba,New Balance,Kids' Winter,320,60480,https://i.postimg.cc/qBQQFZ0L/nblogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+282,Rubino,Manitoba,Dr. Martens,Kids' Winter,218,25288,https://i.postimg.cc/k4vwqTS7/drmartinlogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+283,Rubino,Manitoba,Vans,Kids' Winter,140,27440,https://i.postimg.cc/FRz1HRd1/vanslogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+284,Rubino,Manitoba,Reebok,Kids' Winter,84,11592,https://i.postimg.cc/Gpryddxs/reebok.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+285,Rubino,Manitoba,Skechers,Waterproof Shoes,71,6745,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-skechers.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+286,Rubino,Manitoba,Skechers,Waterproof Shoes,319,53911,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-skechers.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+287,Rubino,Manitoba,Jessica Simpson,Kids' Winter,114,19266,https://i.postimg.cc/gjq99yzh/jsimplogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+288,Rubino,Manitoba,Skechers,Kids' Winter,280,40040,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-skechers.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+289,Rubino,Manitoba,New Balance,Utility Boots,354,29382,https://i.postimg.cc/qBQQFZ0L/nblogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+290,Rubino,Manitoba,Birkenstock,Kids' Winter,265,43460,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+291,Rubino,Manitoba,New Balance,Kids' Winter,208,26832,https://i.postimg.cc/qBQQFZ0L/nblogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+292,Rubino,Manitoba,Birkenstock,Waterproof Shoes,106,18656,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+293,Rubino,Manitoba,Birkenstock,Utility Boots,218,19838,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+294,Rubino,Manitoba,Converse,Kids' Winter,352,55616,https://i.postimg.cc/tCWJT8Td/converse.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+295,Rubino,Manitoba,Birkenstock,Utility Boots,230,44160,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+296,Rubino,Manitoba,New Balance,Utility Boots,119,20944,https://i.postimg.cc/qBQQFZ0L/nblogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+297,Rubino,Manitoba,New Balance,Kids' Winter,430,72240,https://i.postimg.cc/qBQQFZ0L/nblogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+298,Rubino,Manitoba,Jessica Simpson,Utility Boots,157,20724,https://i.postimg.cc/gjq99yzh/jsimplogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+299,Rubino,Manitoba,Reebok,Utility Boots,72,13752,https://i.postimg.cc/Gpryddxs/reebok.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+300,Rubino,Saskatchewan,Converse,Everyday Shoes,387,61920,https://i.postimg.cc/tCWJT8Td/converse.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+301,Rubino,Saskatchewan,Birkenstock,Everyday Shoes,135,15120,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+302,Rubino,Saskatchewan,Birkenstock,Work Boots,330,65340,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+303,Rubino,Saskatchewan,Converse,Work Boots,375,74625,https://i.postimg.cc/tCWJT8Td/converse.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+304,Rubino,Saskatchewan,Birkenstock,Snow Boots,167,12191,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+305,Rubino,Saskatchewan,Dr. Martens,Everyday Shoes,323,46189,https://i.postimg.cc/k4vwqTS7/drmartinlogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+306,Rubino,Saskatchewan,Converse,Everyday Shoes,459,44064,https://i.postimg.cc/tCWJT8Td/converse.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+307,Rubino,Saskatchewan,Jessica Simpson,Snow Boots,267,27501,https://i.postimg.cc/gjq99yzh/jsimplogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+308,Rubino,Saskatchewan,Vans,Snow Boots,435,80475,https://i.postimg.cc/FRz1HRd1/vanslogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+309,Rubino,Saskatchewan,Converse,Everyday Shoes,141,16074,https://i.postimg.cc/tCWJT8Td/converse.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+310,Rubino,Saskatchewan,Converse,Snow Boots,427,75579,https://i.postimg.cc/tCWJT8Td/converse.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+311,Rubino,Saskatchewan,New Balance,Work Boots,181,32399,https://i.postimg.cc/qBQQFZ0L/nblogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+312,Rubino,Saskatchewan,Vans,Everyday Shoes,474,35550,https://i.postimg.cc/FRz1HRd1/vanslogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+313,Rubino,Saskatchewan,Dr. Martens,Work Boots,139,16541,https://i.postimg.cc/k4vwqTS7/drmartinlogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+314,Rubino,Saskatchewan,Reebok,Work Boots,81,9234,https://i.postimg.cc/Gpryddxs/reebok.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+315,Rubino,Saskatchewan,Vans,Snow Boots,240,34560,https://i.postimg.cc/FRz1HRd1/vanslogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+316,Rubino,Saskatchewan,Dr. Martens,Work Boots,272,51136,https://i.postimg.cc/k4vwqTS7/drmartinlogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+317,Rubino,Saskatchewan,Dr. Martens,Snow Boots,392,71344,https://i.postimg.cc/k4vwqTS7/drmartinlogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+318,Rubino,Saskatchewan,Birkenstock,Everyday Shoes,177,16815,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+319,Rubino,Saskatchewan,Vans,Work Boots,166,27390,https://i.postimg.cc/FRz1HRd1/vanslogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+320,Rubino,Nova Scotia,Reebok,Slip-ons,157,10048,https://i.postimg.cc/Gpryddxs/reebok.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+321,Rubino,Nova Scotia,Vans,Slip-ons,450,46800,https://i.postimg.cc/FRz1HRd1/vanslogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+322,Rubino,Nova Scotia,Converse,Comfort Shoes,326,33904,https://i.postimg.cc/tCWJT8Td/converse.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+323,Rubino,Nova Scotia,Vans,Comfort Shoes,412,65096,https://i.postimg.cc/FRz1HRd1/vanslogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+324,Rubino,Nova Scotia,Skechers,Casual Loafers,334,47094,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-skechers.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+325,Rubino,Nova Scotia,Jessica Simpson,Casual Loafers,292,25696,https://i.postimg.cc/gjq99yzh/jsimplogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+326,Rubino,Nova Scotia,New Balance,Casual Loafers,309,46968,https://i.postimg.cc/qBQQFZ0L/nblogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+327,Rubino,Nova Scotia,Converse,Comfort Shoes,486,80190,https://i.postimg.cc/tCWJT8Td/converse.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+328,Rubino,Nova Scotia,New Balance,Comfort Shoes,439,39949,https://i.postimg.cc/qBQQFZ0L/nblogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+329,Rubino,Nova Scotia,Reebok,Slip-ons,210,14070,https://i.postimg.cc/Gpryddxs/reebok.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+330,Rubino,Nova Scotia,Reebok,Casual Loafers,393,65631,https://i.postimg.cc/Gpryddxs/reebok.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+331,Rubino,Nova Scotia,Skechers,Slip-ons,265,37365,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-skechers.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+332,Rubino,Nova Scotia,Skechers,Slip-ons,384,23040,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-skechers.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+333,Rubino,Nova Scotia,Dr. Martens,Comfort Shoes,354,27966,https://i.postimg.cc/k4vwqTS7/drmartinlogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+334,Rubino,Nova Scotia,Birkenstock,Slip-ons,422,67098,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+335,Rubino,Nova Scotia,Converse,Casual Loafers,185,34595,https://i.postimg.cc/tCWJT8Td/converse.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+336,Rubino,Nova Scotia,Skechers,Casual Loafers,236,38232,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-skechers.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+337,Rubino,Nova Scotia,Dr. Martens,Comfort Shoes,186,15624,https://i.postimg.cc/k4vwqTS7/drmartinlogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+338,Rubino,Nova Scotia,Reebok,Casual Loafers,336,67200,https://i.postimg.cc/Gpryddxs/reebok.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+339,Rubino,Nova Scotia,Jessica Simpson,Slip-ons,459,89505,https://i.postimg.cc/gjq99yzh/jsimplogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+340,Rubino,Newfoundland,Converse,Insulated Boots,239,36806,https://i.postimg.cc/tCWJT8Td/converse.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+341,Rubino,Newfoundland,Skechers,Heavy-duty Boots,378,68040,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-skechers.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+342,Rubino,Newfoundland,Birkenstock,Heavy-duty Boots,408,48960,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+343,Rubino,Newfoundland,Birkenstock,Waterproof Footwear,489,80685,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+344,Rubino,Newfoundland,Vans,Waterproof Footwear,339,21357,https://i.postimg.cc/FRz1HRd1/vanslogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+345,Rubino,Newfoundland,Dr. Martens,Heavy-duty Boots,426,43026,https://i.postimg.cc/k4vwqTS7/drmartinlogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+346,Rubino,Newfoundland,Dr. Martens,Waterproof Footwear,188,33464,https://i.postimg.cc/k4vwqTS7/drmartinlogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+347,Rubino,Newfoundland,Birkenstock,Insulated Boots,63,6804,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+348,Rubino,Newfoundland,Jessica Simpson,Insulated Boots,445,80545,https://i.postimg.cc/gjq99yzh/jsimplogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+349,Rubino,Newfoundland,Birkenstock,Waterproof Footwear,409,66258,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+350,Rubino,Newfoundland,Vans,Insulated Boots,324,52812,https://i.postimg.cc/FRz1HRd1/vanslogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+351,Rubino,Newfoundland,Skechers,Waterproof Footwear,372,72540,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-skechers.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+352,Rubino,Newfoundland,Reebok,Waterproof Footwear,465,35805,https://i.postimg.cc/Gpryddxs/reebok.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+353,Rubino,Newfoundland,Reebok,Insulated Boots,282,36096,https://i.postimg.cc/Gpryddxs/reebok.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+354,Rubino,Newfoundland,New Balance,Insulated Boots,491,86907,https://i.postimg.cc/qBQQFZ0L/nblogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+355,Rubino,Newfoundland,Skechers,Waterproof Footwear,170,17340,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-skechers.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+356,Rubino,Newfoundland,Dr. Martens,Heavy-duty Boots,247,20254,https://i.postimg.cc/k4vwqTS7/drmartinlogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+357,Rubino,Newfoundland,Dr. Martens,Insulated Boots,412,74572,https://i.postimg.cc/k4vwqTS7/drmartinlogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+358,Rubino,Newfoundland,Reebok,Heavy-duty Boots,400,52800,https://i.postimg.cc/Gpryddxs/reebok.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+359,Rubino,Newfoundland,Converse,Waterproof Footwear,302,32012,https://i.postimg.cc/tCWJT8Td/converse.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+360,Rubino,New Brunswick,New Balance,Unisex Casual,198,32472,https://i.postimg.cc/qBQQFZ0L/nblogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+361,Rubino,New Brunswick,Jessica Simpson,General Footwear,422,57814,https://i.postimg.cc/gjq99yzh/jsimplogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+362,Rubino,New Brunswick,Skechers,General Footwear,265,33655,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-skechers.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+363,Rubino,New Brunswick,Reebok,Kids' Shoes,363,54450,https://i.postimg.cc/Gpryddxs/reebok.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+364,Rubino,New Brunswick,Birkenstock,Unisex Casual,417,63384,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+365,Rubino,New Brunswick,Skechers,Unisex Casual,204,37536,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-skechers.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+366,Rubino,New Brunswick,Vans,General Footwear,379,73147,https://i.postimg.cc/FRz1HRd1/vanslogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+367,Rubino,New Brunswick,Converse,Unisex Casual,223,22969,https://i.postimg.cc/tCWJT8Td/converse.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+368,Rubino,New Brunswick,Skechers,Kids' Shoes,222,35742,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-skechers.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+369,Rubino,New Brunswick,Dr. Martens,Kids' Shoes,215,34400,https://i.postimg.cc/k4vwqTS7/drmartinlogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+370,Rubino,New Brunswick,New Balance,General Footwear,427,45262,https://i.postimg.cc/qBQQFZ0L/nblogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+371,Rubino,New Brunswick,Vans,Unisex Casual,309,44496,https://i.postimg.cc/FRz1HRd1/vanslogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+372,Rubino,New Brunswick,New Balance,Unisex Casual,278,51152,https://i.postimg.cc/qBQQFZ0L/nblogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+373,Rubino,New Brunswick,Converse,Kids' Shoes,226,43392,https://i.postimg.cc/tCWJT8Td/converse.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+374,Rubino,New Brunswick,Skechers,General Footwear,175,12250,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-skechers.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+375,Rubino,New Brunswick,New Balance,Kids' Shoes,100,6700,https://i.postimg.cc/qBQQFZ0L/nblogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+376,Rubino,New Brunswick,Birkenstock,Kids' Shoes,358,21480,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+377,Rubino,New Brunswick,Dr. Martens,Kids' Shoes,389,62629,https://i.postimg.cc/k4vwqTS7/drmartinlogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+378,Rubino,New Brunswick,Vans,General Footwear,262,34322,https://i.postimg.cc/FRz1HRd1/vanslogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+379,Rubino,New Brunswick,Dr. Martens,Kids' Shoes,173,13321,https://i.postimg.cc/k4vwqTS7/drmartinlogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+380,Rubino,PEI,Birkenstock,Loafers,372,59148,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+381,Rubino,PEI,New Balance,Loafers,169,25688,https://i.postimg.cc/qBQQFZ0L/nblogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+382,Rubino,PEI,New Balance,Sandals,179,27208,https://i.postimg.cc/qBQQFZ0L/nblogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+383,Rubino,PEI,Converse,Light Casual,116,20532,https://i.postimg.cc/tCWJT8Td/converse.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+384,Rubino,PEI,Skechers,Light Casual,120,10320,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-skechers.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+385,Rubino,PEI,Converse,Loafers,322,37030,https://i.postimg.cc/tCWJT8Td/converse.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+386,Rubino,PEI,Converse,Sandals,416,55328,https://i.postimg.cc/tCWJT8Td/converse.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+387,Rubino,PEI,New Balance,Loafers,170,17340,https://i.postimg.cc/qBQQFZ0L/nblogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+388,Rubino,PEI,New Balance,Sandals,427,25620,https://i.postimg.cc/qBQQFZ0L/nblogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+389,Rubino,PEI,New Balance,Sandals,297,40392,https://i.postimg.cc/qBQQFZ0L/nblogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+390,Rubino,PEI,Dr. Martens,Sandals,211,16669,https://i.postimg.cc/k4vwqTS7/drmartinlogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+391,Rubino,PEI,Birkenstock,Loafers,385,62755,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+392,Rubino,PEI,Skechers,Loafers,322,20608,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-skechers.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+393,Rubino,PEI,Dr. Martens,Loafers,96,13248,https://i.postimg.cc/k4vwqTS7/drmartinlogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+394,Rubino,PEI,Jessica Simpson,Light Casual,269,30666,https://i.postimg.cc/gjq99yzh/jsimplogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+395,Rubino,PEI,Reebok,Loafers,489,44010,https://i.postimg.cc/Gpryddxs/reebok.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+396,Rubino,PEI,Birkenstock,Loafers,173,19895,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+397,Rubino,PEI,Birkenstock,Loafers,325,60450,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-Birkenstock.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+398,Rubino,PEI,Jessica Simpson,Light Casual,107,16906,https://i.postimg.cc/gjq99yzh/jsimplogo.png,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+399,Rubino,PEI,Skechers,Light Casual,84,11844,https://images.dsw.ca/is/image/dswca/DSW-250719-BrandEditorial-skechers.jpg,https://rubinoshoes.com/cdn/shop/files/NEW_RUBINO_LOGO_2024.png
+400,The Shoe Company,Ontario,Clarks,Kids' Casual,408,71808,https://i.postimg.cc/vT6B5Nvs/clarkslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+401,The Shoe Company,Ontario,Kamik,Men's Formal,181,32761,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+402,The Shoe Company,Ontario,Timberland,Women's Workwear,51,8058,https://i.postimg.cc/0yvY2Y8Q/timberlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+403,The Shoe Company,Ontario,Taxi,Kids' Casual,321,63879,https://i.postimg.cc/3x9v8zSS/taxilogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+404,The Shoe Company,Ontario,Clarks,Kids' Casual,208,22256,https://i.postimg.cc/vT6B5Nvs/clarkslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+405,The Shoe Company,Ontario,Timberland,Women's Workwear,308,44968,https://i.postimg.cc/0yvY2Y8Q/timberlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+406,The Shoe Company,Ontario,Columbia,Women's Workwear,428,77468,https://i.postimg.cc/LswhhSzT/colmbialogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+407,The Shoe Company,Ontario,Clarks,Women's Workwear,86,16684,https://i.postimg.cc/vT6B5Nvs/clarkslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+408,The Shoe Company,Ontario,Columbia,Women's Workwear,158,21646,https://i.postimg.cc/LswhhSzT/colmbialogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+409,The Shoe Company,Ontario,Kamik,Men's Formal,292,46428,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+410,The Shoe Company,Ontario,Kamik,Men's Formal,99,10791,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+411,The Shoe Company,Ontario,Kamik,Men's Formal,275,22550,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+412,The Shoe Company,Ontario,Timberland,Women's Workwear,140,26600,https://i.postimg.cc/0yvY2Y8Q/timberlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+413,The Shoe Company,Ontario,Hush Puppies,Women's Workwear,202,39592,https://i.postimg.cc/fTDyVB06/hpuplogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+414,The Shoe Company,Ontario,Hush Puppies,Kids' Casual,101,17069,https://i.postimg.cc/fTDyVB06/hpuplogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+415,The Shoe Company,Ontario,Floreshim,Kids' Casual,297,35046,https://i.postimg.cc/439sL996/flrslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+416,The Shoe Company,Ontario,Taxi,Women's Workwear,51,5712,https://i.postimg.cc/3x9v8zSS/taxilogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+417,The Shoe Company,Ontario,Floreshim,Men's Formal,357,33201,https://i.postimg.cc/439sL996/flrslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+418,The Shoe Company,Ontario,Columbia,Women's Workwear,435,47415,https://i.postimg.cc/LswhhSzT/colmbialogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+419,The Shoe Company,Ontario,Kamik,Men's Formal,419,28492,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+420,The Shoe Company,British Columbia,Clarks,Casual Sneakers,491,72177,https://i.postimg.cc/vT6B5Nvs/clarkslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+421,The Shoe Company,British Columbia,Clarks,Casual Sneakers,110,19140,https://i.postimg.cc/vT6B5Nvs/clarkslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+422,The Shoe Company,British Columbia,Columbia,Outdoor Trainers,56,4032,https://i.postimg.cc/LswhhSzT/colmbialogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+423,The Shoe Company,British Columbia,Hush Puppies,Outdoor Trainers,144,11808,https://i.postimg.cc/fTDyVB06/hpuplogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+424,The Shoe Company,British Columbia,Columbia,Athletic,475,72675,https://i.postimg.cc/LswhhSzT/colmbialogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+425,The Shoe Company,British Columbia,Kamik,Athletic,259,46361,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+426,The Shoe Company,British Columbia,Timberland,Athletic,143,20735,https://i.postimg.cc/0yvY2Y8Q/timberlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+427,The Shoe Company,British Columbia,Columbia,Casual Sneakers,56,4928,https://i.postimg.cc/LswhhSzT/colmbialogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+428,The Shoe Company,British Columbia,Taxi,Athletic,272,36176,https://i.postimg.cc/3x9v8zSS/taxilogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+429,The Shoe Company,British Columbia,Hush Puppies,Casual Sneakers,406,49126,https://i.postimg.cc/fTDyVB06/hpuplogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+430,The Shoe Company,British Columbia,Timberland,Athletic,182,32760,https://i.postimg.cc/0yvY2Y8Q/timberlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+431,The Shoe Company,British Columbia,Timberland,Athletic,413,66906,https://i.postimg.cc/0yvY2Y8Q/timberlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+432,The Shoe Company,British Columbia,Hush Puppies,Casual Sneakers,119,11662,https://i.postimg.cc/fTDyVB06/hpuplogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+433,The Shoe Company,British Columbia,Kamik,Athletic,149,18178,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+434,The Shoe Company,British Columbia,Columbia,Casual Sneakers,385,61600,https://i.postimg.cc/LswhhSzT/colmbialogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+435,The Shoe Company,British Columbia,Elements,Casual Sneakers,490,89180,https://i.postimg.cc/q75QRNb5/elemtnlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+436,The Shoe Company,British Columbia,Timberland,Athletic,318,40704,https://i.postimg.cc/0yvY2Y8Q/timberlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+437,The Shoe Company,British Columbia,Floreshim,Athletic,492,66912,https://i.postimg.cc/439sL996/flrslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+438,The Shoe Company,British Columbia,Timberland,Casual Sneakers,82,5904,https://i.postimg.cc/0yvY2Y8Q/timberlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+439,The Shoe Company,British Columbia,Elements,Athletic,318,58512,https://i.postimg.cc/q75QRNb5/elemtnlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+440,The Shoe Company,Alberta,Taxi,Western Boots,192,16512,https://i.postimg.cc/3x9v8zSS/taxilogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+441,The Shoe Company,Alberta,Taxi,Men's Casual,432,45792,https://i.postimg.cc/3x9v8zSS/taxilogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+442,The Shoe Company,Alberta,Kamik,Western Boots,281,38497,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+443,The Shoe Company,Alberta,Columbia,Western Boots,263,28404,https://i.postimg.cc/LswhhSzT/colmbialogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+444,The Shoe Company,Alberta,Hush Puppies,Snow Boots,430,68370,https://i.postimg.cc/fTDyVB06/hpuplogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+445,The Shoe Company,Alberta,Kamik,Snow Boots,272,29376,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+446,The Shoe Company,Alberta,Taxi,Western Boots,468,31356,https://i.postimg.cc/3x9v8zSS/taxilogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+447,The Shoe Company,Alberta,Floreshim,Snow Boots,242,44044,https://i.postimg.cc/439sL996/flrslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+448,The Shoe Company,Alberta,Hush Puppies,Snow Boots,58,11078,https://i.postimg.cc/fTDyVB06/hpuplogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+449,The Shoe Company,Alberta,Floreshim,Western Boots,436,57116,https://i.postimg.cc/439sL996/flrslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+450,The Shoe Company,Alberta,Timberland,Men's Casual,218,33354,https://i.postimg.cc/0yvY2Y8Q/timberlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+451,The Shoe Company,Alberta,Timberland,Men's Casual,491,94272,https://i.postimg.cc/0yvY2Y8Q/timberlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+452,The Shoe Company,Alberta,Kamik,Western Boots,239,21988,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+453,The Shoe Company,Alberta,Clarks,Men's Casual,103,7210,https://i.postimg.cc/vT6B5Nvs/clarkslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+454,The Shoe Company,Alberta,Floreshim,Western Boots,262,44540,https://i.postimg.cc/439sL996/flrslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+455,The Shoe Company,Alberta,Clarks,Western Boots,198,35838,https://i.postimg.cc/vT6B5Nvs/clarkslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+456,The Shoe Company,Alberta,Hush Puppies,Men's Casual,374,56474,https://i.postimg.cc/fTDyVB06/hpuplogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+457,The Shoe Company,Alberta,Timberland,Western Boots,473,69058,https://i.postimg.cc/0yvY2Y8Q/timberlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+458,The Shoe Company,Alberta,Elements,Snow Boots,200,25000,https://i.postimg.cc/q75QRNb5/elemtnlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+459,The Shoe Company,Alberta,Timberland,Snow Boots,316,59408,https://i.postimg.cc/0yvY2Y8Q/timberlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+460,The Shoe Company,Quebec,Clarks,Unisex Sneakers,221,14586,https://i.postimg.cc/vT6B5Nvs/clarkslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+461,The Shoe Company,Quebec,Columbia,Fashion Boots,359,61389,https://i.postimg.cc/LswhhSzT/colmbialogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+462,The Shoe Company,Quebec,Hush Puppies,Fashion Boots,269,44654,https://i.postimg.cc/fTDyVB06/hpuplogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+463,The Shoe Company,Quebec,Timberland,Fashion Boots,324,29484,https://i.postimg.cc/0yvY2Y8Q/timberlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+464,The Shoe Company,Quebec,Taxi,Unisex Sneakers,489,85086,https://i.postimg.cc/3x9v8zSS/taxilogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+465,The Shoe Company,Quebec,Floreshim,Fashion Boots,254,30226,https://i.postimg.cc/439sL996/flrslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+466,The Shoe Company,Quebec,Floreshim,Winter Boots,368,68080,https://i.postimg.cc/439sL996/flrslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+467,The Shoe Company,Quebec,Taxi,Unisex Sneakers,470,59690,https://i.postimg.cc/3x9v8zSS/taxilogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+468,The Shoe Company,Quebec,Kamik,Winter Boots,131,10873,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+469,The Shoe Company,Quebec,Timberland,Fashion Boots,55,5610,https://i.postimg.cc/0yvY2Y8Q/timberlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+470,The Shoe Company,Quebec,Hush Puppies,Unisex Sneakers,478,43020,https://i.postimg.cc/fTDyVB06/hpuplogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+471,The Shoe Company,Quebec,Columbia,Unisex Sneakers,67,12998,https://i.postimg.cc/LswhhSzT/colmbialogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+472,The Shoe Company,Quebec,Taxi,Fashion Boots,91,15470,https://i.postimg.cc/3x9v8zSS/taxilogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+473,The Shoe Company,Quebec,Taxi,Fashion Boots,464,39904,https://i.postimg.cc/3x9v8zSS/taxilogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+474,The Shoe Company,Quebec,Timberland,Unisex Sneakers,267,34443,https://i.postimg.cc/0yvY2Y8Q/timberlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+475,The Shoe Company,Quebec,Columbia,Fashion Boots,118,10502,https://i.postimg.cc/LswhhSzT/colmbialogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+476,The Shoe Company,Quebec,Clarks,Winter Boots,170,14960,https://i.postimg.cc/vT6B5Nvs/clarkslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+477,The Shoe Company,Quebec,Hush Puppies,Unisex Sneakers,481,49543,https://i.postimg.cc/fTDyVB06/hpuplogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+478,The Shoe Company,Quebec,Floreshim,Fashion Boots,353,31417,https://i.postimg.cc/439sL996/flrslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+479,The Shoe Company,Quebec,Kamik,Winter Boots,294,43512,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+480,The Shoe Company,Manitoba,Hush Puppies,Kids' Winter,128,9600,https://i.postimg.cc/fTDyVB06/hpuplogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+481,The Shoe Company,Manitoba,Clarks,Kids' Winter,59,6136,https://i.postimg.cc/vT6B5Nvs/clarkslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+482,The Shoe Company,Manitoba,Taxi,Utility Boots,71,12496,https://i.postimg.cc/3x9v8zSS/taxilogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+483,The Shoe Company,Manitoba,Kamik,Utility Boots,116,16356,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+484,The Shoe Company,Manitoba,Taxi,Kids' Winter,74,7844,https://i.postimg.cc/3x9v8zSS/taxilogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+485,The Shoe Company,Manitoba,Columbia,Waterproof Shoes,444,60384,https://i.postimg.cc/LswhhSzT/colmbialogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+486,The Shoe Company,Manitoba,Clarks,Utility Boots,485,86815,https://i.postimg.cc/vT6B5Nvs/clarkslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+487,The Shoe Company,Manitoba,Kamik,Kids' Winter,133,24738,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+488,The Shoe Company,Manitoba,Columbia,Utility Boots,74,12580,https://i.postimg.cc/LswhhSzT/colmbialogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+489,The Shoe Company,Manitoba,Columbia,Waterproof Shoes,181,21358,https://i.postimg.cc/LswhhSzT/colmbialogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+490,The Shoe Company,Manitoba,Timberland,Utility Boots,377,29029,https://i.postimg.cc/0yvY2Y8Q/timberlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+491,The Shoe Company,Manitoba,Elements,Kids' Winter,297,48411,https://i.postimg.cc/q75QRNb5/elemtnlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+492,The Shoe Company,Manitoba,Kamik,Waterproof Shoes,500,47500,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+493,The Shoe Company,Manitoba,Hush Puppies,Waterproof Shoes,139,11815,https://i.postimg.cc/fTDyVB06/hpuplogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+494,The Shoe Company,Manitoba,Hush Puppies,Kids' Winter,486,83592,https://i.postimg.cc/fTDyVB06/hpuplogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+495,The Shoe Company,Manitoba,Kamik,Waterproof Shoes,328,25256,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+496,The Shoe Company,Manitoba,Floreshim,Utility Boots,86,6708,https://i.postimg.cc/439sL996/flrslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+497,The Shoe Company,Manitoba,Hush Puppies,Utility Boots,89,5785,https://i.postimg.cc/fTDyVB06/hpuplogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+498,The Shoe Company,Manitoba,Timberland,Kids' Winter,144,19728,https://i.postimg.cc/0yvY2Y8Q/timberlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+499,The Shoe Company,Manitoba,Elements,Waterproof Shoes,412,40376,https://i.postimg.cc/q75QRNb5/elemtnlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+500,The Shoe Company,Saskatchewan,Elements,Work Boots,354,33276,https://i.postimg.cc/q75QRNb5/elemtnlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+501,The Shoe Company,Saskatchewan,Kamik,Snow Boots,364,68796,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+502,The Shoe Company,Saskatchewan,Kamik,Everyday Shoes,60,11940,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+503,The Shoe Company,Saskatchewan,Elements,Everyday Shoes,206,26574,https://i.postimg.cc/q75QRNb5/elemtnlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+504,The Shoe Company,Saskatchewan,Elements,Snow Boots,307,35612,https://i.postimg.cc/q75QRNb5/elemtnlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+505,The Shoe Company,Saskatchewan,Columbia,Work Boots,226,39098,https://i.postimg.cc/LswhhSzT/colmbialogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+506,The Shoe Company,Saskatchewan,Clarks,Work Boots,211,35026,https://i.postimg.cc/vT6B5Nvs/clarkslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+507,The Shoe Company,Saskatchewan,Hush Puppies,Everyday Shoes,200,13600,https://i.postimg.cc/fTDyVB06/hpuplogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+508,The Shoe Company,Saskatchewan,Clarks,Everyday Shoes,488,30744,https://i.postimg.cc/vT6B5Nvs/clarkslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+509,The Shoe Company,Saskatchewan,Hush Puppies,Work Boots,475,29925,https://i.postimg.cc/fTDyVB06/hpuplogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+510,The Shoe Company,Saskatchewan,Kamik,Work Boots,109,21037,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+511,The Shoe Company,Saskatchewan,Columbia,Work Boots,215,13330,https://i.postimg.cc/LswhhSzT/colmbialogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+512,The Shoe Company,Saskatchewan,Elements,Snow Boots,377,63336,https://i.postimg.cc/q75QRNb5/elemtnlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+513,The Shoe Company,Saskatchewan,Kamik,Snow Boots,316,48348,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+514,The Shoe Company,Saskatchewan,Floreshim,Everyday Shoes,203,34104,https://i.postimg.cc/439sL996/flrslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+515,The Shoe Company,Saskatchewan,Taxi,Work Boots,182,19474,https://i.postimg.cc/3x9v8zSS/taxilogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+516,The Shoe Company,Saskatchewan,Kamik,Everyday Shoes,434,32550,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+517,The Shoe Company,Saskatchewan,Clarks,Work Boots,158,27966,https://i.postimg.cc/vT6B5Nvs/clarkslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+518,The Shoe Company,Saskatchewan,Kamik,Snow Boots,460,40480,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+519,The Shoe Company,Saskatchewan,Kamik,Work Boots,317,21239,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+520,The Shoe Company,Nova Scotia,Elements,Casual Loafers,444,42180,https://i.postimg.cc/q75QRNb5/elemtnlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+521,The Shoe Company,Nova Scotia,Kamik,Comfort Shoes,380,62700,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+522,The Shoe Company,Nova Scotia,Elements,Casual Loafers,245,40425,https://i.postimg.cc/q75QRNb5/elemtnlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+523,The Shoe Company,Nova Scotia,Kamik,Casual Loafers,434,50344,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+524,The Shoe Company,Nova Scotia,Columbia,Slip-ons,430,59770,https://i.postimg.cc/LswhhSzT/colmbialogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+525,The Shoe Company,Nova Scotia,Elements,Comfort Shoes,250,26750,https://i.postimg.cc/q75QRNb5/elemtnlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+526,The Shoe Company,Nova Scotia,Hush Puppies,Comfort Shoes,199,24079,https://i.postimg.cc/fTDyVB06/hpuplogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+527,The Shoe Company,Nova Scotia,Columbia,Casual Loafers,442,35802,https://i.postimg.cc/LswhhSzT/colmbialogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+528,The Shoe Company,Nova Scotia,Clarks,Casual Loafers,394,35066,https://i.postimg.cc/vT6B5Nvs/clarkslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+529,The Shoe Company,Nova Scotia,Hush Puppies,Comfort Shoes,498,53286,https://i.postimg.cc/fTDyVB06/hpuplogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+530,The Shoe Company,Nova Scotia,Hush Puppies,Comfort Shoes,421,41679,https://i.postimg.cc/fTDyVB06/hpuplogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+531,The Shoe Company,Nova Scotia,Elements,Casual Loafers,342,51984,https://i.postimg.cc/q75QRNb5/elemtnlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+532,The Shoe Company,Nova Scotia,Columbia,Slip-ons,212,33284,https://i.postimg.cc/LswhhSzT/colmbialogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+533,The Shoe Company,Nova Scotia,Floreshim,Casual Loafers,197,14775,https://i.postimg.cc/439sL996/flrslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+534,The Shoe Company,Nova Scotia,Columbia,Comfort Shoes,284,30956,https://i.postimg.cc/LswhhSzT/colmbialogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+535,The Shoe Company,Nova Scotia,Elements,Comfort Shoes,148,26936,https://i.postimg.cc/q75QRNb5/elemtnlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+536,The Shoe Company,Nova Scotia,Timberland,Slip-ons,281,36249,https://i.postimg.cc/0yvY2Y8Q/timberlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+537,The Shoe Company,Nova Scotia,Columbia,Comfort Shoes,246,47724,https://i.postimg.cc/LswhhSzT/colmbialogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+538,The Shoe Company,Nova Scotia,Taxi,Casual Loafers,247,33345,https://i.postimg.cc/3x9v8zSS/taxilogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+539,The Shoe Company,Nova Scotia,Kamik,Comfort Shoes,423,41031,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+540,The Shoe Company,Newfoundland,Elements,Waterproof Footwear,301,46655,https://i.postimg.cc/q75QRNb5/elemtnlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+541,The Shoe Company,Newfoundland,Taxi,Insulated Boots,218,25070,https://i.postimg.cc/3x9v8zSS/taxilogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+542,The Shoe Company,Newfoundland,Columbia,Heavy-duty Boots,85,11815,https://i.postimg.cc/LswhhSzT/colmbialogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+543,The Shoe Company,Newfoundland,Columbia,Heavy-duty Boots,131,23973,https://i.postimg.cc/LswhhSzT/colmbialogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+544,The Shoe Company,Newfoundland,Timberland,Insulated Boots,297,58509,https://i.postimg.cc/0yvY2Y8Q/timberlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+545,The Shoe Company,Newfoundland,Columbia,Heavy-duty Boots,454,61290,https://i.postimg.cc/LswhhSzT/colmbialogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+546,The Shoe Company,Newfoundland,Elements,Waterproof Footwear,311,58157,https://i.postimg.cc/q75QRNb5/elemtnlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+547,The Shoe Company,Newfoundland,Timberland,Waterproof Footwear,98,9310,https://i.postimg.cc/0yvY2Y8Q/timberlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+548,The Shoe Company,Newfoundland,Hush Puppies,Insulated Boots,431,31894,https://i.postimg.cc/fTDyVB06/hpuplogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+549,The Shoe Company,Newfoundland,Clarks,Waterproof Footwear,463,56949,https://i.postimg.cc/vT6B5Nvs/clarkslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+550,The Shoe Company,Newfoundland,Elements,Insulated Boots,420,74760,https://i.postimg.cc/q75QRNb5/elemtnlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+551,The Shoe Company,Newfoundland,Taxi,Waterproof Footwear,396,66924,https://i.postimg.cc/3x9v8zSS/taxilogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+552,The Shoe Company,Newfoundland,Hush Puppies,Waterproof Footwear,478,53058,https://i.postimg.cc/fTDyVB06/hpuplogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+553,The Shoe Company,Newfoundland,Kamik,Waterproof Footwear,74,12136,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+554,The Shoe Company,Newfoundland,Floreshim,Waterproof Footwear,250,47000,https://i.postimg.cc/439sL996/flrslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+555,The Shoe Company,Newfoundland,Kamik,Heavy-duty Boots,61,4331,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+556,The Shoe Company,Newfoundland,Floreshim,Insulated Boots,263,52337,https://i.postimg.cc/439sL996/flrslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+557,The Shoe Company,Newfoundland,Taxi,Insulated Boots,98,13622,https://i.postimg.cc/3x9v8zSS/taxilogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+558,The Shoe Company,Newfoundland,Clarks,Heavy-duty Boots,257,30840,https://i.postimg.cc/vT6B5Nvs/clarkslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+559,The Shoe Company,Newfoundland,Timberland,Heavy-duty Boots,221,26520,https://i.postimg.cc/0yvY2Y8Q/timberlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+560,The Shoe Company,New Brunswick,Columbia,Unisex Casual,462,77154,https://i.postimg.cc/LswhhSzT/colmbialogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+561,The Shoe Company,New Brunswick,Hush Puppies,Kids' Shoes,317,45965,https://i.postimg.cc/fTDyVB06/hpuplogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+562,The Shoe Company,New Brunswick,Timberland,General Footwear,403,43121,https://i.postimg.cc/0yvY2Y8Q/timberlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+563,The Shoe Company,New Brunswick,Kamik,Kids' Shoes,494,43472,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+564,The Shoe Company,New Brunswick,Taxi,Unisex Casual,293,23440,https://i.postimg.cc/3x9v8zSS/taxilogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+565,The Shoe Company,New Brunswick,Taxi,Unisex Casual,186,32922,https://i.postimg.cc/3x9v8zSS/taxilogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+566,The Shoe Company,New Brunswick,Clarks,Unisex Casual,215,23220,https://i.postimg.cc/vT6B5Nvs/clarkslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+567,The Shoe Company,New Brunswick,Timberland,General Footwear,139,18209,https://i.postimg.cc/0yvY2Y8Q/timberlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+568,The Shoe Company,New Brunswick,Taxi,General Footwear,398,57312,https://i.postimg.cc/3x9v8zSS/taxilogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+569,The Shoe Company,New Brunswick,Elements,General Footwear,424,59360,https://i.postimg.cc/q75QRNb5/elemtnlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+570,The Shoe Company,New Brunswick,Floreshim,Kids' Shoes,406,73080,https://i.postimg.cc/439sL996/flrslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+571,The Shoe Company,New Brunswick,Elements,General Footwear,221,26078,https://i.postimg.cc/q75QRNb5/elemtnlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+572,The Shoe Company,New Brunswick,Kamik,General Footwear,140,19040,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+573,The Shoe Company,New Brunswick,Kamik,Unisex Casual,199,31044,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+574,The Shoe Company,New Brunswick,Clarks,Kids' Shoes,396,66924,https://i.postimg.cc/vT6B5Nvs/clarkslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+575,The Shoe Company,New Brunswick,Hush Puppies,Kids' Shoes,489,81174,https://i.postimg.cc/fTDyVB06/hpuplogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+576,The Shoe Company,New Brunswick,Clarks,Unisex Casual,296,40848,https://i.postimg.cc/vT6B5Nvs/clarkslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+577,The Shoe Company,New Brunswick,Columbia,Kids' Shoes,359,35182,https://i.postimg.cc/LswhhSzT/colmbialogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+578,The Shoe Company,New Brunswick,Clarks,Kids' Shoes,71,5396,https://i.postimg.cc/vT6B5Nvs/clarkslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+579,The Shoe Company,New Brunswick,Timberland,Kids' Shoes,384,29184,https://i.postimg.cc/0yvY2Y8Q/timberlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+580,The Shoe Company,PEI,Kamik,Sandals,156,13416,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+581,The Shoe Company,PEI,Taxi,Loafers,175,27650,https://i.postimg.cc/3x9v8zSS/taxilogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+582,The Shoe Company,PEI,Kamik,Loafers,449,47145,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+583,The Shoe Company,PEI,Columbia,Light Casual,212,14416,https://i.postimg.cc/LswhhSzT/colmbialogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+584,The Shoe Company,PEI,Floreshim,Sandals,73,12848,https://i.postimg.cc/439sL996/flrslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+585,The Shoe Company,PEI,Timberland,Light Casual,129,16512,https://i.postimg.cc/0yvY2Y8Q/timberlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+586,The Shoe Company,PEI,Taxi,Sandals,403,71331,https://i.postimg.cc/3x9v8zSS/taxilogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+587,The Shoe Company,PEI,Timberland,Loafers,61,9028,https://i.postimg.cc/0yvY2Y8Q/timberlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+588,The Shoe Company,PEI,Kamik,Light Casual,455,54145,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+589,The Shoe Company,PEI,Clarks,Sandals,90,5670,https://i.postimg.cc/vT6B5Nvs/clarkslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+590,The Shoe Company,PEI,Timberland,Sandals,212,27560,https://i.postimg.cc/0yvY2Y8Q/timberlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+591,The Shoe Company,PEI,Kamik,Light Casual,294,29400,https://i.postimg.cc/jC0jc48J/kamiklogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+592,The Shoe Company,PEI,Hush Puppies,Light Casual,67,5896,https://i.postimg.cc/fTDyVB06/hpuplogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+593,The Shoe Company,PEI,Columbia,Sandals,394,61464,https://i.postimg.cc/LswhhSzT/colmbialogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+594,The Shoe Company,PEI,Taxi,Sandals,113,7797,https://i.postimg.cc/3x9v8zSS/taxilogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+595,The Shoe Company,PEI,Floreshim,Sandals,233,19572,https://i.postimg.cc/439sL996/flrslogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+596,The Shoe Company,PEI,Elements,Loafers,90,14130,https://i.postimg.cc/q75QRNb5/elemtnlogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+597,The Shoe Company,PEI,Columbia,Sandals,410,63140,https://i.postimg.cc/LswhhSzT/colmbialogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+598,The Shoe Company,PEI,Hush Puppies,Light Casual,371,28196,https://i.postimg.cc/fTDyVB06/hpuplogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
+599,The Shoe Company,PEI,Columbia,Light Casual,223,33673,https://i.postimg.cc/LswhhSzT/colmbialogo.png,https://images.dsw.ca/is/image/dswca/sc_logo.jpg
